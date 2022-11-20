@@ -1,5 +1,5 @@
 # Be sure to change these!
-base_url = "https://sirotenkosergey.github.io/-citizen-blog/"
+base_url = "https://sirotenkosergey.github.io/-citizen-blog"
 title = "Zola Terminimal theme"
 
 # Sass compilation is required
