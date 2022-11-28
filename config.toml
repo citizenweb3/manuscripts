@@ -36,7 +36,7 @@ logo_text = "Citizen Cosmos"
 # Author name: when specified, modifies the default
 # copyright text. Apart from author, it will
 # contain current year and a link to the theme.
-#author = "My Name"
+#author = "Citizen Cosmos team"
 
 # Copyright text in HTML format. If specified,
 # entirely replaces default copyright and author.
@@ -52,7 +52,8 @@ menu_items = [
     # see documentation below for more details
     {name = "tags", url = "$BASE_URL/tags"},
     {name = "archive", url = "$BASE_URL/archive"},
-    {name = "about me", url = "$BASE_URL/about"},
+    {name = "about us", url = "$BASE_URL/about"},
+    {name = "our community", url = "$BASE_URL/community"},
 
     # set newtab to true to make the link open in new tab
     {name = "github", url = "https://github.com/pawroman/zola-theme-terminimal", newtab = true},
