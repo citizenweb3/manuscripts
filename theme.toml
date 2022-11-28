@@ -29,7 +29,7 @@ accent_color = "blue"
 background_color = "blue"
 
 # The logo text - defaults to 2 non-breaking spaces.
-logo_text = "Terminimal theme"
+logo_text = "Citizen Cosmos"
 
 # Whether to show links to earlier and later posts
 # on each post page.
