@@ -16,6 +16,8 @@ tags = ["validator", "podcast", "citizen cosmos", "cosmos", "evmos", "cyber"]
 The universe of Proof of Stake and validating is growing by the block. The 15th of September 2022 saw ETH complete its merge and move to POS. This adds the largest crypto ecosystem to the total market cap of POS, which according to [staking rewards](https://www.stakingrewards.com/) was already at > 10% of
 the total MC prior to the merge itself. That's over 6 million users (stakers) before the merge and a lot more now. That's over 250 known providers (operators) before the merge and a lot more today. In fact, this is difficult to measure, but we are certain that the Cosmos ecosystem, alone, contains more than 250 providers.
 
+<!-- more -->
+
 ### The point and the mission
 We view blockchains as cities. We have been talking about this for years. Finally, it seems that the narrative is catching up. If one was to take the statement that blockchains are developing cities as an assumption, then an obvious question is - where does that place the validators (those who run nodes as 
 a service and / or as a business)? 
