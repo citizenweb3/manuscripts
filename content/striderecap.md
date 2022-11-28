@@ -10,13 +10,13 @@ tags = ["ics", "stride", "liquid staking", "article", "podcast"]
 
 [The 72nd episode](https://www.citizencosmos.space/stride) of the Citizen Cosmos podcast was dedicated to the [Stride Labs](https://stride.zone/) project that provides liquidity for staked assets. Serj talked to the co-founder of the project, Riley Edmund, about ledger compatibility, the process of choosing a validator, DeFi economics, Riley’s path toward blockchain, and much more. Find out the recap of the discussion below.
 
+<!-- more -->
+
 [![6374fba9655860cdba356595-stride-briefing-3.png](https://i.postimg.cc/vHFL3WYz/6374fba9655860cdba356595-stride-briefing-3.png)](https://postimg.cc/c6hnJt8g)
 
 ### Stride Labs and ledger compatibility
 
 Riley described his project and goals. He pointed out that Stride Labs is a product app blockchain in the [Cosmos ecosystem](https://cosmos.network/) that allows [liquid stake tokens across any IBC-compatible chain](https://www.youtube.com/watch?v=IuYFNmK0ZxY). It aims to disrupt the cycle of social and technological inequality and support the non-profit business objectives by providing affordable services for effective technology leveraging. One of the main things introduced as a part of this goal-achieving process is ledger compatibility. It is an ambitious plan to make the ledger compatible with multiple networks and wallets. It already supports [Osmosis](https://www.citizencosmos.space/osmosis) and Cosmos is already on its way. This will allow us to go to the pool on Osmosis, trade into Atom, and start gaining rewards. That’s the beauty of liquid staking, according to Riley.
-
-<!-- more -->
 
 ### How to choose a validator the right way?
 
