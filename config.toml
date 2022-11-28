@@ -56,7 +56,7 @@ menu_items = [
     {name = "our community", url = "$BASE_URL/community"},
 
     # set newtab to true to make the link open in new tab
-    {name = "github", url = "https://github.com/pawroman/zola-theme-terminimal", newtab = true},
+    {name = "github", url = "https://github.com/citizen-cosmos", newtab = true},
 ]
 
 # Whether to show links to earlier and later (aka. higher/lower) posts
