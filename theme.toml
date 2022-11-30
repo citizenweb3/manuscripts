@@ -1,11 +1,11 @@
 name = "terminimal"
 description = "A simple, minimal retro theme"
 license = "MIT"
-homepage = "https://citizen-cosmos.github.io/new-citizen-blog"
+homepage = "https://citizen-cosmos.github.io/manuscripts"
 min_version = "0.11.0"
 
 # An optional live demo URL
-demo = "https://citizen-cosmos.github.io/new-citizen-blog"
+demo = "https://citizen-cosmos.github.io/manuscripts"
 
 [author]
 name = "Paweł Romanowski"
