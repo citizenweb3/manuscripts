@@ -14,7 +14,7 @@ The discussed topics were ics, interoperability, cosmwasm, smart contracts, impl
 
 <!-- more -->
 
-Citizen Cosmos, [being a participant](https://github.com/neutron-org/testnets) of the Neutron's testnet, called members of the team to get answers for common questions.
+Citizen Cosmos, [being a participant](https://github.com/neutron-org/testnets) of the Neutron's testnet, called members of the team to get answers for common questions.<br><br>
 [![stream.png](https://i.postimg.cc/LXn7wrMv/stream.png)](https://postimg.cc/wyY0s4Ms)
 
 **Q: Who will use the Neutron?**
