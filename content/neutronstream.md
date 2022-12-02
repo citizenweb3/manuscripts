@@ -6,18 +6,16 @@ date = 2022-12-01
 tags = ["ics", "neutron", "smart contract", "cosmos", "ibc"]
 +++
 
-**[A citizen odyssey, ep. XIV, special mission: Neutron.](https://www.youtube.com/watch?v=umvecK_toi4)**
+**[Cosmos: A citizen odyssey, ep. XIV, special mission- Neutron](https://www.youtube.com/watch?v=umvecK_toi4)**
 {{ youtube(id="umvecK_toi4", autoplay=true, class="youtube") }}
 
-This time, during our citizen odyssey, we discussed different topics around the [Neutron project](https://www.citizencosmos.space/neutron). Our guests were [Soi](https://twitter.com/soi2studio) - community manager with great experience in communication, [Spaydh](https://twitter.com/0xSpaydh) - general manager and [Mike](https://twitter.com/pr0n00gler) - Go/Rust Senior Developer who is OG in Cosmos, almost from the beginning. He developed a lot of different tools, but never launched blockchain, so it was the first case with the Neutron project. 
-The discussed topics were Interchain Security, interoperability, CosmWasm, smart contracts, implementation, dApps and much more.
+During our latest episdoe of Citizen Odyssey, we spoke with the team from [Neutron](https://www.citizencosmos.space/neutron). Our guests were [Soi](https://twitter.com/soi2studio) - a community manager, [Spaydh](https://twitter.com/0xSpaydh) - (the guy helping the) general manager and [Mike](https://twitter.com/pr0n00gler) - Go/Rust Dev. We discussed Interchain Security, interoperability, CosmWasm, dApps and much more.
 
 <!-- more -->
 
-Citizen Cosmos, [being a participant](https://github.com/neutron-org/testnets) of the Neutron's testnet, called members of the team to get answers for common questions.<br><br>
-[![stream.png](https://i.postimg.cc/LXn7wrMv/stream.png)](https://postimg.cc/wyY0s4Ms)
+The following is a recap of our convessation with the team from our own perspective.
 
-**Q: Who will use the Neutron?**
+**Q: Who will use Neutron?**
 
 Basically there will be ordinary users who will use Neutron to do stuff and then developers and people building businesses on top of Neutron. For the people who use the blockchain the goal is to create kind of a home in The Interchain. It's a chain that you can use to access everything else in The Interchain. For example, you want to do a swap on [Osmosis](https://www.citizencosmos.space/osmosis)? You can do it from Neutron, because there's an Outpost — like a proxy, like a contract. You don't need to bridge back and forth the smart contracts. You just go to the interface, you click the button, you sign one transaction. Everything happens in the background, and you get what you want. Don't have to care about the fact that these are multiple blockchains connected by IBC. For users it's going to be a home in The Interchain and for developers it's going to be a command center.
 
