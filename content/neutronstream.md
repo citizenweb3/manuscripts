@@ -45,7 +45,7 @@ Spaydh: Yeah, most likely. The idea is how do we make an incentives game that al
 
 Soi: Cosmos is frankly a little bit behind the times in terms of DeFi. There's a lot of stuff that you can do on Ethereum that you can't do on Cosmos yet. And we like to think that Neutron is going to open the door to the the future of Defi in Cosmos. In five years, what we're going to see on the platform? We're going to see lending protocols, money markets, taxes and really sort of open the door to the future of DeFi in Cosmos.
 
-**Q: What's in your opinion, for the community what comes first DeFI or NFT?**<br>
+**Q: What's in your opinion, for the community what comes first, DeFI or NFT?**<br>
 
 
 
