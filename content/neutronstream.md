@@ -9,8 +9,8 @@ tags = ["ics", "neutron", "smart contract", "cosmos", "ibc"]
 **[A citizen odyssey, ep. XIV, special mission: Neutron.](https://www.youtube.com/watch?v=umvecK_toi4)**
 {{ youtube(id="umvecK_toi4", autoplay=true, class="youtube") }}
 
-This time during the citizen odyssey we discussed different topics around the [Neutron project](https://www.citizencosmos.space/neutron). Our guests were [Soi](https://twitter.com/soi2studio) - community manager with great experience in communication, [Spaydh](https://twitter.com/0xSpaydh) - general manager and [Mike](https://twitter.com/pr0n00gler) - Go/Rust Senior Developer who is og in cosmos, almost from the beginning . He developed a lot of different tools, but never launched blockchain, so it was the first case with the neutron project. 
-The discussed topics were ics, interoperability, cosmwasm, smart contracts, implementation, dapps  and much more!
+This time, during our citizen odyssey, we discussed different topics around the [Neutron project](https://www.citizencosmos.space/neutron). Our guests were [Soi](https://twitter.com/soi2studio) - community manager with great experience in communication, [Spaydh](https://twitter.com/0xSpaydh) - general manager and [Mike](https://twitter.com/pr0n00gler) - Go/Rust Senior Developer who is OG in Cosmos, almost from the beginning. He developed a lot of different tools, but never launched blockchain, so it was the first case with the Neutron project. 
+The discussed topics were Interchain Security, interoperability, CosmWasm, smart contracts, implementation, dApps and much more.
 
 <!-- more -->
 
