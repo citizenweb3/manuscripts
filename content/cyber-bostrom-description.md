@@ -35,8 +35,9 @@ Cyb.ai - is a WEB interface to the Bostrom blockchain developed by the cyber
 
 -receiving and sharing objects in the IPFS network using library ipfs-js.
 
-### Bostrom tokens
+### Bostrom and Cyber tokens
 There are several native tokens in the Bostrom network: BOOT, HYDROGEN, VOLT, AMPERE, TOCYB. Each of its own usage.
+Cyber Congress governance tokens : GOL and THC.
 
 **BOOT** is the main token of Bostrom. The token's name BOOT symbolizes the BOOTloader nature of the Bostrom network for the future Cyber network.
 
@@ -80,6 +81,10 @@ When tokens are in liquid state they can be:
 -transferred to other addresses in the Bostrom or other blockchains of Cosmos network;
 
 -swapped to other tokens using liquidity pools. Other tokens can be non-native Bostrom tokens transferred by IBC protocol from other blockchains of the Cosmos network.
+
+**THC** is the main governing token of Cyber. THC is an ERC-20 token and lives in the Ehereum mainnet. THC has utility value in the form of control over cyber~Foundation.
+
+**GOL** tokens are the testing equivalent of THC.
 
 You can read more about cybernomics on [Github page](https://github.com/cybercongress/cybernomics/blob/main/bostrom/README.md)
 
