@@ -82,7 +82,7 @@ When tokens are in liquid state they can be:
 
 -swapped to other tokens using liquidity pools. Other tokens can be non-native Bostrom tokens transferred by IBC protocol from other blockchains of the Cosmos network.
 
-**THC** is the main governing token of Cyber. THC is an ERC-20 token and lives in the Ehereum mainnet. THC has utility value in the form of control over cyber~Foundation.
+**THC** is the main governing token of Cyber. THC is an ERC-20 token and lives in the Ehereum mainnet. THC has utility value in the form of control over cyber~Foundation(is the community governing DAO behind cyber).
 
 **GOL** tokens are the testing equivalent of THC.
 
