@@ -1,5 +1,5 @@
 +++
-title = "Bostrom-Cyber: a complete guide. Part 2 - How to obtain BOOT"
+title = "Bostrom-Cyber: a complete guide. Part 3 - How to obtain BOOT"
 date = 2022-12-05
 
 [taxonomies]
