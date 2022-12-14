@@ -81,4 +81,4 @@ Join our [community](https://discord.gg/kJaG3EucCX)!
 
 Let's build a future where communication is decentralized. May the code be with you =) 
 
-This guide was created for [Citizen Cosmos](https://www.citizencosmos.space/) by [Magician](https://t.me/magican_n)
+This guide was created for [Citizen Cosmos](https://www.citizencosmos.space/) by [Magican](https://t.me/magican_n)
