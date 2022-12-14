@@ -6,41 +6,41 @@ date = 2022-12-13
 tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 +++
 
-## How to get a citizenship ##
+## How to get citizenship on Bostrom ##
 
-To interact with the cyb.ai and use its functionality, first of all we need to register and obtain citizenship.
+To interact with [cyb.ai](https://cyb.ai/) and use its functionality, first of all we need to register and to obtain citizenship.
 
-First, let's go to the website cyb.ai and connect the Keplr wallet
+Let's go to cyb.ai and connect Keplr:
 
 [![Screenshot-467.png](https://i.postimg.cc/pXgBJxc0/Screenshot-467.png)](https://postimg.cc/qzxnkfTn)
 
 <!-- more -->
 
-Great! Our wallet is connected. Now we can get citizenship - click on **Go to portal**
+Great! Our wallet is connected. Now we can get our citizenship - click on **Go to portal**:
 
 [![Screenshot-474.png](https://i.postimg.cc/h4MDmtvB/Screenshot-474.png)](https://postimg.cc/LhYFKRjC)
 
 [![Screenshot-475.png](https://i.postimg.cc/52LDwsgC/Screenshot-475.png)](https://postimg.cc/mPZd4N0L)
 
-And click on **Start**
+And click on **Start**:
 
 [![Screenshot-476.png](https://i.postimg.cc/TPPSZTGr/Screenshot-476.png)](https://postimg.cc/w1S0N81v)
 
-Choose your nickname (8+ symbols are free, shorter than 8 symbols costs 10m BOOT)
+Choose your nickname (8+ symbols are free, shorter than 8 symbols costs 10m BOOT):
 
 [![Screenshot-477.png](https://i.postimg.cc/d3SDjsq4/Screenshot-477.png)](https://postimg.cc/SYCyypYM)
 
 [![Screenshot-478.png](https://i.postimg.cc/rsdqcSkN/Screenshot-478.png)](https://postimg.cc/30HsF0Wk)
 
-Upload a gif or picture
+Upload a gif or picture:
 
 [![Screenshot-481.png](https://i.postimg.cc/J0bMGRss/Screenshot-481.png)](https://postimg.cc/N2fWnq7t)
 
-Sign the Moon Code
+Sign the Moon Code:
 
 [![Screenshot-482.png](https://i.postimg.cc/PJf284x1/Screenshot-482.png)](https://postimg.cc/2bJ4snn5)
 
-Then you can check if you are qualified to airdrop. The airdrop rules are [here](https://github.com/Snedashkovsky/cybergift/)
+And now you can check if you are qualified for the gift. The gift rules are [here](https://github.com/Snedashkovsky/cybergift/)
 
 [![Screenshot-470.png](https://i.postimg.cc/3Rg7SK33/Screenshot-470.png)](https://postimg.cc/2b8P3Nqt)
 
@@ -50,14 +50,16 @@ Then you can check if you are qualified to airdrop. The airdrop rules are [here]
 
 [![Screenshot-473.png](https://i.postimg.cc/XJJ7hm7r/Screenshot-473.png)](https://postimg.cc/QB23K67D)
 
-In the next part of the guide, we will tell you how to obtain BOOT coins.
+In the next part of the guide, we we will learn how to obtain BOOT
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
+If you want to support us in our mission of creating and spreading educational content and aligning the goals of different communities, please [stake with us](https://www.citizencosmos.space/staking):
 - [EVMOS](https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
 - [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
 - [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
 
-Join our [community](https://discord.gg/kJaG3EucCX) Lets build a future where communication is decentralized. May the code be with you. 
+Join our [community](https://discord.gg/kJaG3EucCX)! 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fnew-citizen-blog%2Fcyber-bostrom-citizenship.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+Let's build a future where communication is decentralized. May the code be with you =) 
+
+This guide was created for [Citizen Cosmos](https://www.citizencosmos.space/) by [Magician](https://t.me/magican_n)
