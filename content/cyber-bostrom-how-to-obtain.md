@@ -58,7 +58,7 @@ First, let's go to the website [cyb.ai](https://cyb.ai/)
 
 If you have not yet registered and received citizenship, then use our [guide]([site.com](https://github.com/citizen-cosmos/manuscripts/blob/master/content/cyber-bostrom-citizenship.md))
 
-Go to the **Teleport** tab
+Go to the **Teleport** tab.
 
 [![Screenshot-507.png](https://i.postimg.cc/XJznTZ96/Screenshot-507.png)](https://postimg.cc/mz7x9gdm)
 
