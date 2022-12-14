@@ -8,7 +8,7 @@ tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 
 ## How to get citizenship on Bostrom ##
 
-Let's go to cyb.ai and connect Keplr:
+Let's go to [cyb.ai](https://cyb.ai/) and connect Keplr:
 
 [![Screenshot-467.png](https://i.postimg.cc/pXgBJxc0/Screenshot-467.png)](https://postimg.cc/qzxnkfTn)
 
