@@ -1,5 +1,5 @@
 +++
-title = "Bostrom-Cyber: a complete guide. Part 2 - How to get a citizenship"
+title = "Bostrom-Cyber: a complete guide. Part 3 - How to get a citizenship"
 date = 2022-12-13
 
 [taxonomies]
@@ -7,8 +7,6 @@ tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 +++
 
 ## How to get citizenship on Bostrom ##
-
-To interact with [cyb.ai](https://cyb.ai/) and use its functionality, first of all we need to register and to obtain citizenship.
 
 Let's go to cyb.ai and connect Keplr:
 
@@ -50,7 +48,7 @@ And now you can check if you are qualified for the gift. The gift rules are [her
 
 [![Screenshot-473.png](https://i.postimg.cc/XJJ7hm7r/Screenshot-473.png)](https://postimg.cc/QB23K67D)
 
-In the next part of the guide, we we will learn how to obtain BOOT
+In the next part of the guide, we we will learn how to stake BOOT
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If you want to support us in our mission of creating and spreading educational content and aligning the goals of different communities, please [stake with us](https://www.citizencosmos.space/staking):
@@ -62,4 +60,4 @@ Join our [community](https://discord.gg/kJaG3EucCX)!
 
 Let's build a future where communication is decentralized. May the code be with you =) 
 
-This guide was created for [Citizen Cosmos](https://www.citizencosmos.space/) by [Magician](https://t.me/magican_n)
+This guide was created for [Citizen Cosmos](https://www.citizencosmos.space/) by [Magican](https://t.me/magican_n)
