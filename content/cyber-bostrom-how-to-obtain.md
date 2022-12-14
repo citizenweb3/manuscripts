@@ -56,7 +56,7 @@ You can buy BOOT tokens also on cyb.ai using IBC. We will be able to exchange, f
 
 First, let's go to the website [cyb.ai](https://cyb.ai/)
 
-If you have not yet registered and received citizenship, then use our [guide](site.com)
+If you have not yet registered and received citizenship, then use our [guide]([site.com](https://github.com/citizen-cosmos/manuscripts/blob/master/content/cyber-bostrom-citizenship.md))
 
 Go to the **Teleport** tab
 
@@ -77,6 +77,8 @@ By selecting the Bostrom network, we will see our ATOM in this network.
 And now we can exchange our ATOM for BOOT. Choose the number of ATOM that we swap for BOOT and click on **swap**
 
 [![Screenshot-513.png](https://i.postimg.cc/Fz34fTkD/Screenshot-513.png)](https://postimg.cc/dZsXpmBy)
+
+In the next part of the guide, we will tell you how to stake BOOT coins.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
