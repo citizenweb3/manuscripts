@@ -98,4 +98,8 @@ If you want to support us in our mission of creating and spreading educational c
 - [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
 - [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
 
-Join our [community](https://discord.gg/kJaG3EucCX) Lets build a future where communication is decentralized. May the code be with you. 
+Join our [community](https://discord.gg/kJaG3EucCX)! 
+
+Let's build a future where communication is decentralized. May the code be with you =) 
+
+This guide was created for [Citizen Cosmos](https://www.citizencosmos.space/) by [Magician](https://t.me/magican_n)
