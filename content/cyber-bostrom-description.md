@@ -8,7 +8,7 @@ tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 
 [![Screenshot-430.png](https://i.postimg.cc/V6zW89PN/Screenshot-430.png)](https://postimg.cc/8Fn6d658)
 ### Bostrom
-Bostrom is a superintelligence project with a permissionless knowledge graph at its core built on blockchain (cosmos-SDK) and content addressing mechanism (with the current implementation of IPFS protocol).Bostrom allows adding knowledge (creating cyberlinks between particles) to the knowledge graph verifiably. By "verifiably" we mean that it is guaranteed by blockchain design that the holder of a particular private key added specific content into the blockchain at the known time.
+Bostrom is a superintelligence, with a permissionless knowledge graph at its core built on a blockchain (cosmos-SDK) and content addressing mechanism (with the current implementation of IPFS protocol).Bostrom allows adding knowledge (creating cyberlinks between particles) to the knowledge graph verifiably. By "verifiably" we mean that it is guaranteed by blockchain design that the holder of a particular private key added specific content into the blockchain at the known time.
 
 <!-- more -->
 
@@ -27,13 +27,13 @@ You may think of Cyber akin to a huge Wikipedia without censorship, which is at 
 
 Cyber is basically a big decentralized knowledge graph, to which users add and read information from. While validators (of Cyber) use their machines to rank and index the user provided information in a trustless manner. For now, Cyber works with a technology called [IPFS](https://ipfs.tech/), which is basically, a distributed P2P storage where users can safely store and exchange data, but Cyber can work with any similar technology such as DAT, GIT, Bitcoin, Ethereum, Swarm, etc.
 
-Cyb.ai - is a WEB interface to the Bostrom blockchain developed by the cyberCongress team. Among Cyb.ai's many functions are:
+[Cyb.ai](https://cyb.ai/) - is a WEB interface to the Bostrom blockchain developed by the cyber~Congress DAO. Among Cyb.ai's many functions are:
 
--receiving data on cyberlinks recorded by Bostrom blockchain from the node;
+-receiving data on cyberlinks recorded by Bostrom blockchain from the node
 
--creating cyberlinks;
+-creating cyberlinks
 
--receiving and sharing objects in the IPFS network using library ipfs-js.
+-receiving and sharing objects in the IPFS network using library ipfs-js
 
 ### Bostrom and Cyber tokens
 There are several native tokens in the Bostrom network: BOOT, HYDROGEN, VOLT, AMPERE, TOCYB. Each of its own usage.
@@ -45,30 +45,30 @@ With BOOT one can:
 
 -"hire a hero"(to delegate tokens to a validator), being paid rewards in return (risk fee)- for each staked BOOT a HYDROGEN is minted (with a 1 to 1 ratio)
 
--pay for network transactions (pay for gas). Though now, many validators accept transactions with 0 gas fee;
+-pay for network transactions (pay for gas). Though now, many validators accept transactions with 0 gas fee
 
--vote for protocol changes and public goods.
+-vote for protocol changes and public goods
 
 With **HYDROGEN** one can:
 
--"investmint" HYDROGEN for a limited period to produce VOLT and AMPERE tokens;
+-"investmint" HYDROGEN for a limited period to produce VOLT and AMPERE tokens
 
--exchange it back for delegated BOOT to transfer BOOT into a liquid state.
+-exchange it back for delegated BOOT to transfer BOOT into a liquid state
 
 **Volt** token:
 
--is needed to create cyberlinks;
+-is needed to create cyberlinks
 
--amount of Volt tokens on a balance of the selected neuron regulates how many cyberlinks per day the neuron can submit.
+-amount of Volt tokens on a balance of the selected neuron regulates how many cyberlinks per day the neuron can submit
 
 Each Volt token on the neuron's balance allows creating 1 cyberlink per day. The ability to create cyberlinks is restored within a day.
 If the network is underloaded, one can produce more cyberlinks (up to 4 cyberlinks for each Volt on balance per day).
 
 **Ampere** token:
 
--is needed to create cyberlinks;
+-is needed to create cyberlinks
 
--amount of Ampere tokens on a balance of the selected neuron is used to compute "ampere-per-cyberlink metric", which is used in cyberrank algorithm.
+-amount of Ampere tokens on a balance of the selected neuron is used to compute "ampere-per-cyberlink metric", which is used in cyberrank algorithm
 
 The more Ampere tokens the neuron has, the higher his cyberlinks would be ranked. Cyberrank is recalculated for each cycle so that the changes in the amount of Ampere tokens on the neurons' balances that produced cyberlinks would influence the cyberrank of the whole graph. It's reasonable to think of Ampere tokens as a measure that characterizes the impact of cyberlinks created from the account on the knowledge graph.
 
@@ -78,13 +78,17 @@ All the tokens can be in two states: frozen and liquid (except TOCYB which is al
 
 When tokens are in liquid state they can be:
 
--transferred to other addresses in the Bostrom or other blockchains of Cosmos network;
+-transferred to other addresses in the Bostrom or other blockchains of Cosmos network
 
--swapped to other tokens using liquidity pools. Other tokens can be non-native Bostrom tokens transferred by IBC protocol from other blockchains of the Cosmos network.
+-swapped to other tokens using liquidity pools. Other tokens can be non-native Bostrom tokens transferred by IBC protocol from other blockchains of the Cosmos network
+
+**More** tokens:
 
 **THC** is the main governing token of Cyber. THC is an ERC-20 token and lives in the Ehereum mainnet. THC has utility value in the form of control over cyber~Foundation(is the community governing DAO behind cyber).
 
 **GOL** tokens are the testing equivalent of THC.
+
+**PUSSY** tokens are the main tokens of the [space-pussy network](https://space-pussy.cyb.ai/). This is a CosmWasm and IBC enabled network that is supposed to help to test Bostrom, Cybyer and launch new communities and contracts.
 
 You can read more about cybernomics on [Github page](https://github.com/cybercongress/cybernomics/blob/main/bostrom/README.md)
 
