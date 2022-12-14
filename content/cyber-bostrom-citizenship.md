@@ -48,7 +48,7 @@ And now you can check if you are qualified for the gift. The gift rules are [her
 
 [![Screenshot-473.png](https://i.postimg.cc/XJJ7hm7r/Screenshot-473.png)](https://postimg.cc/QB23K67D)
 
-In the next part of the guide, we we will learn how to stake BOOT.
+In the next part of the guide, we will learn how to stake BOOT.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If you want to support us in our mission of creating and spreading educational content and aligning the goals of different communities, please [stake with us](https://www.citizencosmos.space/staking):
