@@ -88,7 +88,7 @@ When tokens are in liquid state they can be:
 
 **GOL** tokens are the testing equivalent of THC.
 
-**PUSSY** tokens are the main tokens of the [space-pussy network](https://space-pussy.cyb.ai/). This is a CosmWasm and IBC enabled network that is supposed to help to test Bostrom, Cybyer and launch new communities and contracts.
+**PUSSY** tokens are the main tokens of the [space-pussy network](https://space-pussy.cyb.ai/). This is a CosmWasm and IBC enabled network that is supposed to help to test Bostrom, Cyber and launch new communities and contracts.
 
 You can read more about cybernomics on [Github page](https://github.com/cybercongress/cybernomics/blob/main/bostrom/README.md)
 
