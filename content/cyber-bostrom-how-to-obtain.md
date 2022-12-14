@@ -6,7 +6,9 @@ date = 2022-12-05
 tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 +++
 
-### How to obtain BOOT
+## How to obtain BOOT ##
+
+### Using the Osmosis Frontier ###
 
 You can buy BOOT tokens at Osmosis Frontier. On this site we will be able to exchange ATOM/OSMO/JUNO and many other tokens for BOOT tokens. I'll show You an example of ATOM.
 
@@ -47,6 +49,35 @@ Now we can see our tokens in the Keplr wallet. To do this, open the Keplr wallet
 [![Screenshot-440.png](https://i.postimg.cc/X7Bc5f1S/Screenshot-440.png)](https://postimg.cc/561CdCMn)
 
 [![Screenshot-437.png](https://i.postimg.cc/HLYy6XzL/Screenshot-437.png)](https://postimg.cc/JsF0ny9w)
+
+### Using the cyb.ai ###
+
+You can buy BOOT tokens also on cyb.ai using IBC. We will be able to exchange, for example, ATOM or OSMO for BOOT tokens. I will show you an example of ATOM.
+
+First, let's go to the website [cyb.ai](https://cyb.ai/)
+
+If you have not yet registered and received citizenship, then use our [guide](site.com)
+
+Go to the **Teleport** tab
+
+[![Screenshot-507.png](https://i.postimg.cc/XJznTZ96/Screenshot-507.png)](https://postimg.cc/mz7x9gdm)
+
+Now we need to transfer the ATOM from the native network to the Bostrom network.
+
+[![Screenshot-508.png](https://i.postimg.cc/1t5jDJny/Screenshot-508.png)](https://postimg.cc/bGWgh095)
+
+Choose the number of ATOM that we transfer to the Bostrom and click on **Deposit**
+
+[![Screenshot-511.png](https://i.postimg.cc/3N3mkcdZ/Screenshot-511.png)](https://postimg.cc/xJFc7gGk)
+
+By selecting the Bostrom network, we will see our ATOM in this network.
+
+[![Screenshot-512.png](https://i.postimg.cc/MphSzkFg/Screenshot-512.png)](https://postimg.cc/JscgQFmQ)
+
+And now we can exchange our ATOM for BOOT. Choose the number of ATOM that we swap for BOOT and click on **swap**
+
+[![Screenshot-513.png](https://i.postimg.cc/Fz34fTkD/Screenshot-513.png)](https://postimg.cc/dZsXpmBy)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
