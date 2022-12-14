@@ -8,7 +8,7 @@ tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 
 ## How to stake BOOT ##
 
-There are 2 ways to stake your BOOT tokens.
+There are 2 ways to stake your BOOT tokens:
 
 ### 1.Using Keplr ###
 
