@@ -74,9 +74,11 @@ By selecting the Bostrom network, we will see our ATOM on this network:
 
 [![Screenshot-512.png](https://i.postimg.cc/MphSzkFg/Screenshot-512.png)](https://postimg.cc/JscgQFmQ)
 
-And now we can exchange our ATOM for BOOT. Choose the number of ATOM that we swap for BOOT and click on **swap**:
+And now we can exchange our ATOM first for H(HYDROGENE), and then swap H for BOOT:
 
-[![Screenshot-513.png](https://i.postimg.cc/Fz34fTkD/Screenshot-513.png)](https://postimg.cc/dZsXpmBy)
+[![Screenshot-518.png](https://i.postimg.cc/WbG1jNrN/Screenshot-518.png)](https://postimg.cc/sv2r4Rwq)
+
+[![Screenshot-519.png](https://i.postimg.cc/q7zrt4tC/Screenshot-519.png)](https://postimg.cc/JyVvvw51)
 
 In the next part of our guide, we will learn how to get citizenship on Bostrom.
 
