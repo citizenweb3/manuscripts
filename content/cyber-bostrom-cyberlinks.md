@@ -8,11 +8,12 @@ tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 
 ## How to create a cyberlinks ##
 
-To create a cyberlink in Bostrom neuron needs to have any number of Ampere and 1 or more Volt tokens on his balance.
+A cyberlink is a link between two particles registered in Bostrom blockchain by a particular neuron.
+To create a cyberlink in Bostrom neurons needs to have any number of Ampere and 1 or more Volt tokens on their balance.
 
-For each staked **BOOT** a **HYDROGEN(H)** is minted (with a 1 to 1 ratio). With this **HYDROGEN** we can do "investmint" for a limited period to produce **VOLT** and **AMPERE** tokens (they are needed to create cyberlinks).
+For each staked **BOOT** a **HYDROGEN(H)** is minted (at a 1 to 1 ratio). With this **HYDROGEN** we can do "investmint" for a limited period(1 to 520 days) to produce **VOLT** and **AMPERE** tokens (both are needed to create cyberlinks).
 
-To do this go to [cyb.ai](https://cyb.ai/) and click on **HFR**(Note that I currently have an empty battery):
+To get started go to [cyb.ai](https://cyb.ai/) and click on **HFR**(Note that I currently have an empty battery):
 
 [![Screenshot-527.png](https://i.postimg.cc/NjhcgzZ3/Screenshot-527.png)](https://postimg.cc/rK9bjQVj)
 
@@ -22,7 +23,7 @@ Here we can choose the amount of **HYDROGENE(H)** and the period for which we wa
 
 [![Screenshot-530.png](https://i.postimg.cc/1XgxTGY1/Screenshot-530.png)](https://postimg.cc/xNSFNz26)
 
-After selecting the amount of **H** and the period for which they are frozen, click on **Investmint**:
+After selecting the amount of **HYDROGENE(H)** and the period for which they are frozen, click on **Investmint**:
 
 [![Screenshot-531.png](https://i.postimg.cc/rst4pHYn/Screenshot-531.png)](https://postimg.cc/vxbTq0yf)
  
@@ -36,9 +37,13 @@ Here we can choose the amount of **HYDROGENE(H)** and the period for which we wa
 
 [![Screenshot-542.png](https://i.postimg.cc/N0SVZp7x/Screenshot-542.png)](https://postimg.cc/2qd2Zdtq)
 
-Now we have **A** and **V**: 
+Now we have **AMPERE(A)** and **VOLT(V)**: 
 
 [![Screenshot-544.png](https://i.postimg.cc/c1hCYbRj/Screenshot-544.png)](https://postimg.cc/HjJT13P4)
+
+The battery shows how much **Energy(W)** is now available. Energy (W) is the product of ampers and volts :
+
+**ENERGY(W)** = **VOLT(V)** x **AMPERE(A)**
 
 Our battery is not empty, by clicking on it we will see how many cyberlinks we can create. The battery will fill up during the day:
 
@@ -52,7 +57,7 @@ We see the results that are returned by our query:
 
 [![Screenshot-547.png](https://i.postimg.cc/3xmhJNYg/Screenshot-547.png)](https://postimg.cc/9DmKLW4M)
 
-To get our result for this request, we can attach an image, text, or a hash:
+To get our result for this request, we can attach an image, text, or a hash - this is the creation of the cyberlink:
 
 [![Screenshot-548.png](https://i.postimg.cc/wBqPNcSQ/Screenshot-548.png)](https://postimg.cc/v4K3F984)
 
@@ -67,6 +72,12 @@ Now, when you search for "Citizen Cosmos" in the search box, my result will also
 In the same way you can create a cyberlink with an image, video, document:
 
 [![Screenshot-552.png](https://i.postimg.cc/1RLnWWRM/Screenshot-552.png)](https://postimg.cc/yWy8xyZS)
+
+Select the file you want to upload and click on **Open**:
+
+[![Screenshot-556.png](https://i.postimg.cc/cCm37wXb/Screenshot-556.png)](https://postimg.cc/QKFVh9LQ)
+
+Great, we created a cyberlink with the logo Citizen Cosmos:
 
 [![Screenshot-551.png](https://i.postimg.cc/25426qcN/Screenshot-551.png)](https://postimg.cc/qtv8D7H1)
 
