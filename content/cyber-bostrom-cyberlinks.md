@@ -8,10 +8,18 @@ tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 
 ## How to create a cyberlinks ##
 
+Particles are bits of Information (text, image, audio, or video Files) that are registered on the Bostrom blockchain. 
+
 A cyberlink is a link between two particles registered in Bostrom blockchain by a particular neuron.
 To create a cyberlink in Bostrom neurons needs to have any number of Ampere and 1 or more Volt tokens on their balance.
 
 For each staked **BOOT** a **HYDROGEN(H)** is minted (at a 1 to 1 ratio). With this **HYDROGEN** we can do "investmint" for a limited period(1 to 520 days) to produce **VOLT** and **AMPERE** tokens (both are needed to create cyberlinks).
+
+Each **VOLT** token on the neuron's balance allows creating 1 cyberlink per day. The ability to create cyberlinks is restored within a day.
+If the network is underloaded, one can produce more cyberlinks (up to 4 cyberlinks for each Volt on balance per day).
+
+Amount of **AMPERE** tokens on a balance of the selected neuron is used to compute ampere-per-cyberlink metric, which is used in cyberrank algorithm.
+The more **AMPERE** tokens the neuron has, the higher his cyberlinks would be ranked. Cyberrank is recalculated for each cycle.
 
 To get started go to [cyb.ai](https://cyb.ai/) and click on **HFR**(Note that I currently have an empty battery):
 
