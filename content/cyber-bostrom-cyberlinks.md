@@ -8,17 +8,17 @@ tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 
 ## How to create a cyberlinks ##
 
-Particles are bits of Information (text, image, audio, video files or any other inforamtion, such as - map coordinates) that are registered on the Bostrom blockchain. Eacxh particle is stored using IPFS, hence is immutable. 
+Particles are bits of Information (text, image, audio, video files or any other information, such as - map coordinates) that are registered on the Bostrom blockchain. Each particle is stored using IPFS, hence is immutable. 
 
-A cyberlink is a link between two particles registered in Bostrom blockchain by a particular neuron. In the case of Cyber and Bostrom a neuron is just another word for each user. Each user represents a neuron and together they represent a global formation of the superintellegnce. To create a cyberlink in Bostrom neurons needs to have any number of Ampere and 1 or more Volt tokens on their balance. 
+A cyberlink is a link between two particles registered in Bostrom blockchain by a particular neuron. In the case of Cyber and Bostrom a neuron is just another word for each user. Each user represents a neuron and together they represent a global formation of the superintelligence. To create a cyberlink in Bostrom neurons needs to have any number of Ampere and 1 or more Volt tokens on their balance. 
 
-In other words one can describe a cyberlink as a the most simple, verifibale and immutable communciation. When object A interacts with object B, they communicate. They do so by creating a cyberlink, which in its turn is the backbone route for all the information contained in Bostrom. 
+In other words one can describe a cyberlink as a the most simple, verifiable and immutable communication. When object A interacts with object B, they communicate. They do so by creating a cyberlink, which in its turn is the backbone route for all the information contained in Bostrom. 
 
-Before we can create a cyberlink, we need resources to interact with the Bostrom blockchain (aka superintelggence). These resourcec can be obtained in the proccess of investimingt. 
+Before we can create a cyberlink, we need resources to interact with the Bostrom blockchain (aka superintelligence). These resourses can be obtained in the proccess of investimint. 
 
 For each staked **BOOT** a **HYDROGEN(H)** is minted (at a 1 to 1 ratio) free of charge. With this **HYDROGEN** we can investmint for a limited period (1 to 520 days) to produce **VOLT** and **AMPERE** tokens (both are needed to create cyberlinks). In essence, the longer a user/neuron locks their H for, the more assurance in the network they show, and the more V or A they can produce. With time, the production of V and A becomes more and more difficult.
 
-Each **VOLT** token on the neuron's balance allows creating (roughly, for the moment) 1 cyberlink per day. The ability to create cyberlinks is restored within a day. This is represented by a battery, seperatly for each neuron. Each transaction or action on the Bostrom blockchain uses some amount of battery. If the network is underloaded, one can produce more cyberlinks (currently, this is up to 4 cyberlinks for each Volt on balance per day).
+Each **VOLT** token on the neuron's balance allows creating (roughly, for the moment) 1 cyberlink per day. The ability to create cyberlinks is restored within a day. This is represented by a battery, seperately for each neuron. Each transaction or action on the Bostrom blockchain uses some amount of battery. If the network is underloaded, one can produce more cyberlinks (currently, this is up to 4 cyberlinks for each Volt on balance per day).
 
 Amount of **AMPERE** tokens on a balance of the selected neuron is used to compute ampere-per-cyberlink metric, which is used in cyberrank algorithm.
 The more **AMPERE** tokens the neuron has, the higher his cyberlinks would be ranked. Cyberrank is recalculated for each cycle.
