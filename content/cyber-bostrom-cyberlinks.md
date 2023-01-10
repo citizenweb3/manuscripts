@@ -10,7 +10,11 @@ tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 
 Particles are bits of Information (text, image, audio, video files or any other inforamtion, such as - map coordinates) that are registered on the Bostrom blockchain. Eacxh particle is stored using IPFS, hence is immutable. 
 
-A cyberlink is a link between two particles registered in Bostrom blockchain by a particular neuron. In the case of Cyber and Bostrom a neuron is just another word for each user. Each user represents a neuron and together they represent a global formation of the superintellegnce. To create a cyberlink in Bostrom neurons needs to have any number of Ampere and 1 or more Volt tokens on their balance.
+A cyberlink is a link between two particles registered in Bostrom blockchain by a particular neuron. In the case of Cyber and Bostrom a neuron is just another word for each user. Each user represents a neuron and together they represent a global formation of the superintellegnce. To create a cyberlink in Bostrom neurons needs to have any number of Ampere and 1 or more Volt tokens on their balance. 
+
+In other words one can describe a cyberlink as a the most simple, verifibale and immutable communciation. When object A interacts with object B, they communicate. They do so by creating a cyberlink, which in its turn is the backbone route for all the information contained in Bostrom. 
+
+Before we can create a cyberlink, we need resources to interact with the Bostrom blockchain (aka superintelggence). These resourcec can be obtained in the proccess of investimingt. 
 
 For each staked **BOOT** a **HYDROGEN(H)** is minted (at a 1 to 1 ratio) free of charge. With this **HYDROGEN** we can investmint for a limited period (1 to 520 days) to produce **VOLT** and **AMPERE** tokens (both are needed to create cyberlinks). In essence, the longer a user/neuron locks their H for, the more assurance in the network they show, and the more V or A they can produce. With time, the production of V and A becomes more and more difficult.
 
@@ -19,7 +23,7 @@ Each **VOLT** token on the neuron's balance allows creating (roughly, for the mo
 Amount of **AMPERE** tokens on a balance of the selected neuron is used to compute ampere-per-cyberlink metric, which is used in cyberrank algorithm.
 The more **AMPERE** tokens the neuron has, the higher his cyberlinks would be ranked. Cyberrank is recalculated for each cycle.
 
-To get started go to [cyb.ai](https://cyb.ai/) and click on **HFR**(Note that I currently have an empty battery):
+To get started (assuming you already have H, if you don't please refer to THIS guide) go to [cyb.ai](https://cyb.ai/) and click on **HFR**(Note that I currently have an empty battery):
 
 [![Screenshot-527.png](https://i.postimg.cc/NjhcgzZ3/Screenshot-527.png)](https://postimg.cc/rK9bjQVj)
 
