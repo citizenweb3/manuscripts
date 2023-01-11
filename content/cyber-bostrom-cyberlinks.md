@@ -6,13 +6,24 @@ date = 2022-12-23
 tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 +++
 
-## How to create a cyberlinks ##
+## Particles, cyberlinks and search bar ##
 
 Particles are bits of Information (text, image, audio, video files or any other information, such as - map coordinates) that are registered on the Bostrom blockchain. Each particle is stored using IPFS, hence is immutable. 
 
-A cyberlink is a link between two particles registered in Bostrom blockchain by a particular neuron. In the case of Cyber and Bostrom a neuron is just another word for each user. Each user represents a neuron and together they represent a global formation of the superintelligence. To create a cyberlink in Bostrom neurons needs to have any number of Ampere and 1 or more Volt tokens on their balance. 
+A cyberlink is a link between two particles registered in Bostrom blockchain by a particular neuron. In the case of Cyber and Bostrom a neuron is just another word for each user. Each user represents a neuron and together they represent a global formation of the superintelligence. To create a cyberlink in Bostrom neurons needs to have any number of Ampere and 1 or more Volt tokens on their balance.
 
-In other words one can describe a cyberlink as a the most simple, verifiable and immutable communication. When object A interacts with object B, they communicate. They do so by creating a cyberlink, which in its turn is the backbone route for all the information contained in Bostrom. 
+[![Frame-6.png](https://i.postimg.cc/D0s6JfKT/Frame-6.png)](https://postimg.cc/9wmZshM8) 
+
+In other words one can describe a cyberlink as a the most simple, verifiable and immutable communication. When object A interacts with object B, they communicate. They do so by creating a cyberlink, which in its turn is the backbone route for all the information contained in Bostrom.
+
+There is a search bar in cyb.ai. When a user enters a query in the search bar cyb.ai computes the IPFS of query contents. 
+If there are cyberlinks originating from the search query's IPFS hash, then the node returns particles sorted by cyberrank, cyb.ai node retrieves files from IPFS and presents these results.
+
+Thus, the cyb.ai search bar displays particles that are cyberlinked to the search query particle. We don't need any tokens to use the cyb.ai search string, unlike creating cyberlinks
+ 
+[![Frame-1-4.png](https://i.postimg.cc/tTmvVRvS/Frame-1-4.png)](https://postimg.cc/34mFshTm)
+
+## How to create a cyberlinks ##
 
 Before we can create a cyberlink, we need resources to interact with the Bostrom blockchain (aka superintelligence). These resourses can be obtained in the proccess of investimint. 
 
