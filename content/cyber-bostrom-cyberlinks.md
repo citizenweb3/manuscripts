@@ -39,11 +39,11 @@ To get started (assuming you already have H, if you don't please refer to [THIS]
 
 <!-- more -->
 
-Here we can choose the amount of **HYDROGENE(H)** and the period for which we want to freeze them. By moving the slider you will see how the amount of **VOLTS(V)** changes:
+Here we can choose the amount of **HYDROGEN(H)** and the period for which we want to freeze them. By moving the slider you will see how the amount of **VOLTS(V)** changes:
 
 [![Screenshot-530.png](https://i.postimg.cc/1XgxTGY1/Screenshot-530.png)](https://postimg.cc/xNSFNz26)
 
-After selecting the amount of **HYDROGENE(H)** and the period for which they are frozen, click on **Investmint**:
+After selecting the amount of **HYDROGEN(H)** and the period for which they are frozen, click on **Investmint**:
 
 [![Screenshot-531.png](https://i.postimg.cc/rst4pHYn/Screenshot-531.png)](https://postimg.cc/vxbTq0yf)
  
@@ -51,7 +51,7 @@ Now, we need to obtain **AMPERE** tokens. To do this click on **AMPERE(A)**:
 
 [![Screenshot-540.png](https://i.postimg.cc/NMqRrHk4/Screenshot-540.png)](https://postimg.cc/JyxsftgD)
 
-Here we can choose the amount of **HYDROGENE(H)** and the period for which we want to freeze them. By moving the slider you will see how the amount of **AMPERE(A)** changes, after selecting the amount of **H** and the period for which they are frozen, click on **Investmint**:
+Here we can choose the amount of **HYDROGEN(H)** and the period for which we want to freeze them. By moving the slider you will see how the amount of **AMPERE(A)** changes, after selecting the amount of **H** and the period for which they are frozen, click on **Investmint**:
 
 [![Screenshot-541.png](https://i.postimg.cc/zGRG9PTd/Screenshot-541.png)](https://postimg.cc/nXpxm2R7)
 
