@@ -10,30 +10,30 @@ tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 
 Particles are bits of Information (text, image, audio, video files or any other information, such as - map coordinates) that are registered on the Bostrom blockchain. Each particle is stored using [IPFS](https://www.ipfs.com/), hence is immutable. 
 
-A cyberlink is a link between two particles registered in [Bostrom blockchain](https://cyb.ai/) by a particular neuron. In the case of Cyber and Bostrom a neuron is just another word for a user. Each user represents a neuron, and together - they represent a global formation of the superintelligence. To create a cyberlink in Bostrom, neurons needs to have any number of Ampere and 1 or more Volt tokens on their balance.
+A cyberlink is a link between two particles registered in [Bostrom blockchain](https://cyb.ai/) by a particular neuron. In the case of Cyber and Bostrom a neuron is just another word for a user. Each user represents a neuron, and together - they represent a global formation of the superintelligence. To create a cyberlink in Bostrom, neurons need to have any number of Ampere and 1 or more Volt tokens on their balance.
 
 [![Frame-6.png](https://i.postimg.cc/D0s6JfKT/Frame-6.png)](https://postimg.cc/9wmZshM8) 
 
-In other words one can describe a cyberlink as the most simple, verifiable and immutable communication process. When subject A interacts with object B, they communicate. They do so by creating a cyberlink, which in its turn is the backbone route for all the information contained in Bostrom.
+In other words, one can describe a cyberlink as the most simple, verifiable and immutable communication process. When subject A interacts with object B, they communicate. They do so by creating a cyberlink, which in its turn is the backbone route for all the information contained in Bostrom.
 
 There is a search bar in cyb.ai. When a user enters a query in the search bar cyb.ai computes the IPFS of query contents. If there are cyberlinks originating from the search query's IPFS hash, then the chain returns particles sorted by cyberrank, cyb.ai node retrieves files from IPFS and presents these results.
 
-Thus, the cyb.ai search bar displays particles that are cyberlinked to the search query particle. We don't need any tokens to use the cyb.ai search string, unlike creating cyberlinks
+Thus, the cyb.ai search bar displays particles that are cyberlinked to the search query particle. We don't need any tokens to use the cyb.ai search string, unlike creating cyberlinks.
  
 [![Frame-1-4.png](https://i.postimg.cc/tTmvVRvS/Frame-1-4.png)](https://postimg.cc/34mFshTm)
 
 ## How to create a cyberlinks ##
 
-Before we can create a cyberlink, we need resources to interact with the Bostrom blockchain (aka superintelligence). These resourses can be obtained in the proccess of investiminting. 
+Before we can create a cyberlink, we need resources to interact with the Bostrom blockchain (aka superintelligence). These resources can be obtained in the process of investiminting. 
 
 For each staked **BOOT** a **HYDROGEN(H)** is minted (at a 1 to 1 ratio) free of charge. With this **HYDROGEN** we can investmint for a limited period (1 to 520 days) to produce **VOLT** and **AMPERE** tokens (both are needed to create cyberlinks). In essence, the longer a user/neuron locks their H for, the more assurance in the network they show, and the more V or A they can produce. With time, the production of V and A becomes more and more difficult.
 
-Each **VOLT** token on the neuron's balance allows creating (roughly, for the moment) 1 cyberlink per day. The ability to create cyberlinks is restored within a day. This is represented by a battery, seperately for each neuron. Each transaction or action on the Bostrom blockchain uses some amount of battery. If the network is underloaded, one can produce more cyberlinks (currently, this is up to 4 cyberlinks for each Volt on balance per day).
+Each **VOLT** token on the neuron's balance allows creating (roughly, for the moment) 1 cyberlink per day. The ability to create cyberlinks is restored within a day. This is represented by a battery, separately for each neuron. Each transaction or action on the Bostrom blockchain uses some amount of battery. If the network is underloaded, one can produce more cyberlinks (currently, this is up to 4 cyberlinks for each Volt on balance per day).
 
 Amount of **AMPERE** tokens on a balance of the selected neuron is used to compute ampere-per-cyberlink metric, which is used in cyberrank algorithm.
 The more **AMPERE** tokens the neuron has, the higher his cyberlinks would be ranked. Cyberrank is recalculated for each cycle.
 
-To get started (assuming you already have H, if you don't please refer to THIS guide) go to [cyb.ai](https://cyb.ai/) and click on **HFR**(Note that I currently have an empty battery):
+To get started (assuming you already have H, if you don't please refer to [THIS](https://citizen-cosmos.github.io/manuscripts/cyber-bostrom-how-to-stake/) guide) go to [cyb.ai](https://cyb.ai/) and click on **HFR** (Note that I currently have an empty battery):
 
 [![Screenshot-527.png](https://i.postimg.cc/NjhcgzZ3/Screenshot-527.png)](https://postimg.cc/rK9bjQVj)
 
@@ -51,7 +51,7 @@ Now, we need to obtain **AMPERE** tokens. To do this click on **AMPERE(A)**:
 
 [![Screenshot-540.png](https://i.postimg.cc/NMqRrHk4/Screenshot-540.png)](https://postimg.cc/JyxsftgD)
 
-Here we can choose the amount of **HYDROGENE(H)** and the period for which we want to freeze them. By moving the slider you will see how the amount of **AMPERE(A)** changes, after selecting the amount of **H** and the period for which they are frozen, click on **Investmint** :
+Here we can choose the amount of **HYDROGENE(H)** and the period for which we want to freeze them. By moving the slider you will see how the amount of **AMPERE(A)** changes, after selecting the amount of **H** and the period for which they are frozen, click on **Investmint**:
 
 [![Screenshot-541.png](https://i.postimg.cc/zGRG9PTd/Screenshot-541.png)](https://postimg.cc/nXpxm2R7)
 
@@ -61,7 +61,7 @@ Now we have **AMPERE(A)** and **VOLT(V)**:
 
 [![Screenshot-544.png](https://i.postimg.cc/c1hCYbRj/Screenshot-544.png)](https://postimg.cc/HjJT13P4)
 
-The battery shows how much **Energy(W)** is now available. Energy (W) is the product of ampers and volts :
+The battery shows how much **Energy(W)** is now available. Energy (W) is the product of ampers and volts:
 
 **ENERGY(W)** = **VOLT(V)** x **AMPERE(A)**
 
@@ -89,7 +89,7 @@ Now, when you search for "Citizen Cosmos" in the search box, my result will also
 
 [![Screenshot-550.png](https://i.postimg.cc/Lshz1J6b/Screenshot-550.png)](https://postimg.cc/B89LWQFT)
 
-In the same way you can create a cyberlink with an image, video, document:
+In the same way you can create a cyberlink with an image, video, document or any other information:
 
 [![Screenshot-552.png](https://i.postimg.cc/1RLnWWRM/Screenshot-552.png)](https://postimg.cc/yWy8xyZS)
 
