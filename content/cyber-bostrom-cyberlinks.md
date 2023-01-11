@@ -8,16 +8,15 @@ tags = ["guide", "cyber", "bostrom", "pussynetwork"]
 
 ## Particles, cyberlinks and search bar ##
 
-Particles are bits of Information (text, image, audio, video files or any other information, such as - map coordinates) that are registered on the Bostrom blockchain. Each particle is stored using IPFS, hence is immutable. 
+Particles are bits of Information (text, image, audio, video files or any other information, such as - map coordinates) that are registered on the Bostrom blockchain. Each particle is stored using [IPFS](https://www.ipfs.com/), hence is immutable. 
 
-A cyberlink is a link between two particles registered in Bostrom blockchain by a particular neuron. In the case of Cyber and Bostrom a neuron is just another word for each user. Each user represents a neuron and together they represent a global formation of the superintelligence. To create a cyberlink in Bostrom neurons needs to have any number of Ampere and 1 or more Volt tokens on their balance.
+A cyberlink is a link between two particles registered in [Bostrom blockchain](https://cyb.ai/) by a particular neuron. In the case of Cyber and Bostrom a neuron is just another word for a user. Each user represents a neuron, and together - they represent a global formation of the superintelligence. To create a cyberlink in Bostrom, neurons needs to have any number of Ampere and 1 or more Volt tokens on their balance.
 
 [![Frame-6.png](https://i.postimg.cc/D0s6JfKT/Frame-6.png)](https://postimg.cc/9wmZshM8) 
 
-In other words one can describe a cyberlink as a the most simple, verifiable and immutable communication. When object A interacts with object B, they communicate. They do so by creating a cyberlink, which in its turn is the backbone route for all the information contained in Bostrom.
+In other words one can describe a cyberlink as the most simple, verifiable and immutable communication process. When subject A interacts with object B, they communicate. They do so by creating a cyberlink, which in its turn is the backbone route for all the information contained in Bostrom.
 
-There is a search bar in cyb.ai. When a user enters a query in the search bar cyb.ai computes the IPFS of query contents. 
-If there are cyberlinks originating from the search query's IPFS hash, then the node returns particles sorted by cyberrank, cyb.ai node retrieves files from IPFS and presents these results.
+There is a search bar in cyb.ai. When a user enters a query in the search bar cyb.ai computes the IPFS of query contents. If there are cyberlinks originating from the search query's IPFS hash, then the chain returns particles sorted by cyberrank, cyb.ai node retrieves files from IPFS and presents these results.
 
 Thus, the cyb.ai search bar displays particles that are cyberlinked to the search query particle. We don't need any tokens to use the cyb.ai search string, unlike creating cyberlinks
  
@@ -25,7 +24,7 @@ Thus, the cyb.ai search bar displays particles that are cyberlinked to the searc
 
 ## How to create a cyberlinks ##
 
-Before we can create a cyberlink, we need resources to interact with the Bostrom blockchain (aka superintelligence). These resourses can be obtained in the proccess of investimint. 
+Before we can create a cyberlink, we need resources to interact with the Bostrom blockchain (aka superintelligence). These resourses can be obtained in the proccess of investiminting. 
 
 For each staked **BOOT** a **HYDROGEN(H)** is minted (at a 1 to 1 ratio) free of charge. With this **HYDROGEN** we can investmint for a limited period (1 to 520 days) to produce **VOLT** and **AMPERE** tokens (both are needed to create cyberlinks). In essence, the longer a user/neuron locks their H for, the more assurance in the network they show, and the more V or A they can produce. With time, the production of V and A becomes more and more difficult.
 
