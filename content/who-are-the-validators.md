@@ -1,9 +1,9 @@
 +++
-title = "Who we are"
+title = "Who are the validators?"
 date = 2022-09-16
 
 [taxonomies]
-tags = ["validator", "podcast", "citizen cosmos", "cosmos", "evmos", "cyber"]
+tags = ["validator", "podcast", "citizen cosmos", "cosmos", "evmos", "cyber", "staking"]
 +++
 
 # Who are the validators? 
@@ -44,14 +44,12 @@ Currently, we judge to possess the biggest source of such info. We have 1-1 and 
 ### Who are you then?
 Another great question. We are ecosystem developers. We believe in decentralization maximalism, but we hate chain maximalism. We believe that nothing should be banned, yet we hate censorship. We have been in crypto (almost) since its inception, however we are just starting out. We are a small team of enthusiasts, that believe in education, code, and lack of blackbox opinions. Most of all, we believe in freedom. 
 
-----------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-If you want to support us in our mission of creating and spreading educational content and aligning the goal of different communities, please stake with us (guide you can find [here](https://www.citizencosmos.space/staking)) 
+If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us [here](https://www.citizencosmos.space/staking)) 
+
 - [EVMOS](https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
 - [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
 - [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
 
-Join our [community](https://discord.gg/kJaG3EucCX) Lets build a future where communication is decentralized. May the code be with you. 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fblog%2Fwho-we-are.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+Join our [community](https://discord.gg/kJaG3EucCX), to build a future where communication is decentralized. May the code be with you! 
