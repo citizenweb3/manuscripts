@@ -3,7 +3,7 @@ title = "Bostrom-Cyber: a complete guide. Part 5 - How to create a cyberlink & u
 date = 2022-12-23
 
 [taxonomies]
-tags = ["guide", "cyber", "bostrom", "pussynetwork"]
+tags = ["guide", "cyber", "bostrom", "spacepussy", "ai"]
 +++
 
 ## Particles, cyberlinks and search bar ##
@@ -101,16 +101,14 @@ Great, we created a cyberlink with the logo Citizen Cosmos:
 
 [![Screenshot-551.png](https://i.postimg.cc/25426qcN/Screenshot-551.png)](https://postimg.cc/qtv8D7H1)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us [here](https://www.citizencosmos.space/staking)) 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-If you want to support us in our mission of creating and spreading educational content and aligning the goals of different communities, please [stake with us](https://www.citizencosmos.space/staking):
 - [EVMOS](https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
 - [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
 - [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
 
-Join our [community](https://discord.gg/kJaG3EucCX)! 
-
-Let's build a future where communication is decentralized. May the code be with you =) 
+Join our [community](https://discord.gg/kJaG3EucCX), to build a future where communication is decentralized. May the code be with you! 
 
 This guide was created for [Citizen Cosmos](https://www.citizencosmos.space/) by [Magican](https://t.me/magican_n)
