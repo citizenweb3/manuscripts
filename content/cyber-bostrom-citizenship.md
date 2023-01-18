@@ -3,7 +3,7 @@ title = "Bostrom-Cyber: a complete guide. Part 3 - How to get a citizenship"
 date = 2022-12-13
 
 [taxonomies]
-tags = ["guide", "cyber", "bostrom", "pussynetwork"]
+tags = ["guide", "cyber", "bostrom", "spacepussy", "ai"]
 +++
 
 ## How to get citizenship on Bostrom ##
@@ -50,14 +50,14 @@ And now you can check if you are qualified for the gift. The gift rules are [her
 
 In the next part of the guide, we will learn how to stake BOOT.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-If you want to support us in our mission of creating and spreading educational content and aligning the goals of different communities, please [stake with us](https://www.citizencosmos.space/staking):
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us [here](https://www.citizencosmos.space/staking)) 
+
 - [EVMOS](https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
 - [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
 - [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
 
-Join our [community](https://discord.gg/kJaG3EucCX)! 
-
-Let's build a future where communication is decentralized. May the code be with you =) 
+Join our [community](https://discord.gg/kJaG3EucCX), to build a future where communication is decentralized. May the code be with you! 
 
 This guide was created for [Citizen Cosmos](https://www.citizencosmos.space/) by [Magican](https://t.me/magican_n)
