@@ -38,6 +38,7 @@ Leverage Interchain Accounts for a DAO to stake assets on a remote chain (that d
 Write a custom protocol to move NFTs between Juno and Stargaze testnets (both have CosmWasm)
 Build an “AMM router” that swaps tokens either on JunoSwap (local) or Osmosis (via custom IBC protocol), depending on the best current rate.
 Stay with us and learn more about Hackatom VII in Seoul. Next time we’ll talk about the judges who will decide the winner of the challenges! 
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us [here](https://www.citizencosmos.space/staking): 
