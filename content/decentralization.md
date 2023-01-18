@@ -1,4 +1,12 @@
-# Decentralization #
++++
+title = "Decentralization"
+date = 2022-08-19
+
+[taxonomies]
+tags = ["article", "decentralization"]
++++
+
+# Decentralization 
 
 [![ea9c8ebf-a4d9-492d-b423-e66bea9fa03a.png](https://i.postimg.cc/t4VjPVbZ/ea9c8ebf-a4d9-492d-b423-e66bea9fa03a.png)](https://postimg.cc/jDKmY2Lt)
 
