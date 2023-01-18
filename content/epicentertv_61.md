@@ -8,7 +8,13 @@ tags = ["transcript", "epicenter", "sebastien", "podcast", "transcript"]
 
 <iframe src="https://player.fireside.fm/v2/7d8ZfYhp+a8NbeBiL?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
-- Transcript of the Episode: 
+#citizencosmos
+
+- Episode link: https://www.citizencosmos.space/epicentertv
+
+- Episode name: Sébastien Couture, blockchain journalism, podcasting & summits
+
+## Transcript of the Episode: 
 
 [00:01:29] Сitizen Сosmos: Welcome everybody to a new episode of Citizen Cosmos, and today we have a very special guest, his name is Sebastien, he's the host of two podcasts:
 Epicenter.tv and Interop. It’s remarkable to me because I’m a fan, and I started Citizen Cosmos because I was listening to Epicenter. Hi! Let’s start with Epicenter.tv. When it began, it was a huge event. I still love and enjoy
