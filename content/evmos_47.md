@@ -1,5 +1,5 @@
 +++
-title = "Transcript of the episode #47 with Federico from Evmos"
+title = "Transcript of episode #47 with Federico from Evmos"
 date = 2022-09-12
 
 [taxonomies]
