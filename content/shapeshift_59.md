@@ -8,9 +8,13 @@ tags = ["transcript", "shapeshift", "willy", "podcast"]
 
 <iframe src="https://player.fireside.fm/v2/7d8ZfYhp+1s9qY1u1?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
-- Transcript of the Episode: 
+#citizencosmos
 
-<!-- more -->
+- Episode link: https://www.citizencosmos.space/shapeshift
+
+- Episode name: Willy Ogorzaly, values, DAO's & the best day ever
+
+## Transcript of the Episode: 
 
 [00:00:00] Citizen Cosmos: Good space-time ya’ll! Welcome to the new Citizen Cosmos episode, and today we have Willy Ogorzaly with us, the head of the decentralization at the ShapeShift DAO. Hi!
 
