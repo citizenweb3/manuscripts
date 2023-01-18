@@ -12,11 +12,8 @@ tags = ["ics", "game of chains", "goc", "cosmos"]
 The Interchain Security protocol (ICS) is planned to launch on Cosmos in January 2023. To test it, an incentivized testnet program called [Game of Chains (GoC)](https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022#phase-1-two-dummy-chains) was launched.
 It’s the third public incentivized testnet in the history of Cosmos, after Game of Stakes and Game of Zones.
 
-<!-- more -->
-
 Citizen Cosmos, [being a participant](https://provider-explorer.goc.earthball.xyz/validators/cosmosvaloper12zmahaunzfq8w3fwkv6uds69jsqszltyp5tk7m), called members of Testnet Jury **[Jehan Tremback](https://twitter.com/JTremback)** [(Informal Systems)](https://www.citizencosmos.space/jelena)
  and **[Udit Vira](https://twitter.com/UditVira)** [(Hypha Worker Co-operative)](https://twitter.com/hyphacoop) to talk about GoC and ask them questions of concern.
-
 
 **Q: What is the difference between this game and the previous ones?**
 
@@ -25,8 +22,7 @@ Game of Stakes was based on testing proof-of-stake mechanism, its goal was to un
 [Game of Zones](https://www.citizencosmos.space/game-of-zones) came for the launch of IBC, and people were testing how IBC packets were being relayed between the different zones, which provided an
 opportunity to actually prove that this IBC ecosystem of sovereign interoperability where we had independent zones working together was something that could come to fruition.
 
-
-***What is GoC?***<br>
+***What is GoC?***
 
 The goal of ongoing Game of Chains is to test Interchain Security. The idea of ICS is that one blockchain (The Cosmos Hub) can share security with another chain. 
 This feature was developed by Informal Systems. The format of incentivezed testnet basically means that validators come and help run this network completing
@@ -34,7 +30,8 @@ certain milestones to surface attack vectors, bugs and other issues. There are r
 Also, rewards make this process a lot of fun by providing an environment where participants both compete and still help each other. 
 All of this ultimately helps a lot to polish that really complex piece of technology which is ICS.
 [![streamgoc.png](https://i.postimg.cc/T17mkjKN/streamgoc.png)](https://postimg.cc/wRN7MmcD)
-***Preparation for the testnet***<br>
+
+***Preparation for the testnet***
 
 Of course, it was necessary to prepare thoroughly for the testnet launch. Jehan shared how preliminary testing within the repository was going and about the automated
 tests that ran on every pull request. One of the types of tests is setting up a virtual network with several different chains: provider chain, which provides the 
@@ -46,8 +43,7 @@ So significant work was done in that area of planning. Udit also touched on infr
 both on proveder chain and consumer chains, they need to be relayers. For that, GoC has to have quite a few supporting tools. And last but not least, it all requires
 communicating. Sometimes things break during a testnet running, and people should know what’s going on and how the plan is being adapted in new conditions.
 
-
-***Mitigating risks***<br>
+***Mitigating risks***
 
 **Q: How do we make sure that binaries we are being given are not malicious software?**
 
@@ -58,7 +54,6 @@ According to Jehan, this is one of the key things. At least for the first few co
 
 As a conclusion for this part of the discussion, Jehan noted that there are some other risks too, but they are really not as much concern as those three, because they are more based on mistakes than a deliberate attack.
 
-
 **Q: What bugs have already been detected?**
 
 Jehan gave a detailed report on one of the detected bugs during testing _(writer’s comment: [An iterator in computer programming](https://en.wikipedia.org/wiki/Iterator))_:
@@ -67,8 +62,7 @@ Jehan gave a detailed report on one of the detected bugs during testing _(writer
 
 There were also some issues in relaying. These have been resolved now.
 
-
-***Phases of GoC***<br>
+***Phases of GoC***
 
 Udit gave a quick review on the Game of Chains phased approach.<br>
 There are three phases:<br>
@@ -76,12 +70,11 @@ I. Testing dummy chains (Apollo and Sputnik), very basic, the most simple chains
 II. Testing actual chains. Expecting to see some of the consumer chains that are going to be launching next year (e.g. [Neutron](https://www.citizencosmos.space/neutron)).<br>
 III. Asking anybody in the public or validators to submit consumer chains of their own.
 
-
 ***In conclusion,*** a quick Q&A session was held, during which some advantages of Cosmos SDK were pointed out.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us [here](https://www.citizencosmos.space/staking)) 
+If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us [here](https://www.citizencosmos.space/staking): 
 
 - [EVMOS](https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
 - [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
