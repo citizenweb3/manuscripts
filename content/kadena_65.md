@@ -8,7 +8,13 @@ tags = ["transcript", "kadena", "willmartino", "podcast", "transcript"]
 
 <iframe src="https://player.fireside.fm/v2/7d8ZfYhp+fB-tt4Iy?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
-- Transcript of the Episode: 
+#citizencosmos
+
+- Episode link: https://www.citizencosmos.space/kadena
+
+- Episode name: Kadena, SEC, multichain & scaling 
+
+## Transcript of the Episode: 
 
 [00:00:19] Citizen Cosmos: Hi everyone! Welcome to a new episode of Citizen Cosmos podcast! We have today two guests with us from Kadena, and it's Will Martino, the founder and president of Kadena and Randy Daal, the head of developer experience at Kadena. They will hopefully tell us all about Kadena, all about themselves, and everything else we want to know. Welcome to the show! 
 
