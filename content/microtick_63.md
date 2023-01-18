@@ -8,7 +8,13 @@ tags = ["transcript", "microtick", "ethereum", "podcast", "markjackson"]
 
 <iframe src="https://player.fireside.fm/v2/7d8ZfYhp+UD4YlivU?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
-- Transcript of the Episode: 
+#citizencosmos
+
+- Episode link: https://www.citizencosmos.space/microtick
+
+- Episode name: Mark Jackson, options, cooperative price discovery & fair arbitrage 
+
+## Transcript of the Episode: 
 
 [00:00:00] Citizen Cosmos: Hi, everyone! Welcome to another episode of Citizen Cosmos. We have Mark with us today, the founder of Microtick. Hi, welcome to the show.
 
