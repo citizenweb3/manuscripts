@@ -6,7 +6,7 @@ date = 2022-08-12
 tags = ["article", "staking", "economics"]
 +++
 
-##Staking as a way out
+## Staking as a way out
 
 [![photo-5939320887511723527-y.jpg](https://i.postimg.cc/YSkcHYp7/photo-5939320887511723527-y.jpg)](https://postimg.cc/fVHq73tq)
 
