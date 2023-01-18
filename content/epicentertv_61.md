@@ -3,7 +3,7 @@ title = "Transcript of episode #61 with Sebastien from EpicenterTV"
 date = 2022-08-07
 
 [taxonomies]
-tags = ["transcript", "epicenter", "sebastien", "podcast", "transcript"]
+tags = ["transcript", "epicenter", "sebastien", "podcast", "validators"]
 +++
 
 <iframe src="https://player.fireside.fm/v2/7d8ZfYhp+a8NbeBiL?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
