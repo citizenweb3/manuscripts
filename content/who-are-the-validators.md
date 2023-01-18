@@ -3,7 +3,7 @@ title = "Who are the validators?"
 date = 2022-09-16
 
 [taxonomies]
-tags = ["validator", "podcast", "citizen cosmos", "cosmos", "evmos", "cyber", "staking"]
+tags = ["validators", "podcast", "citizen cosmos", "cosmos", "evmos", "cyber", "staking"]
 +++
 
 # Who are the validators? 
