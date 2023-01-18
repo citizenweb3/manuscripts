@@ -41,14 +41,13 @@ According to the team, Neutron is for ordinary users, developers and people buil
 
 > Soi: "Cosmos is frankly a little bit behind the times in terms of DeFi. There's a lot of stuff that you can do on Ethereum that you can't do on Cosmos yet. And we like to think that Neutron is going to open the door to the the future of Defi in Cosmos. In five years, what we're going to see on the platform? We're going to see lending protocols, money markets, taxes and really sort of open the door to the future of DeFi in Cosmos."
 
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-If you want to support us in our mission of creating and spreading educational content and aligning the goals of different communities, please [stake with us](https://www.citizencosmos.space/staking)) 
+
+If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us [here](https://www.citizencosmos.space/staking)) 
+
 - [EVMOS](https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
 - [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
 - [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
 
-Join our [community](https://discord.gg/kJaG3EucCX). Let's build a future where communication is decentralized. May the code be with you. 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fcitizen-cosmos.github.io%2Fnew-citizen-blog%2Fneutronstream.html&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+Join our [community](https://discord.gg/kJaG3EucCX), to build a future where communication is decentralized. May the code be with you! 
 
