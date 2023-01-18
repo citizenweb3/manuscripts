@@ -1,5 +1,5 @@
 +++
-title = "Bostrom-Cyber: a complete guide. Part 5 - How to create a cyberlinks"
+title = "Bostrom-Cyber: a complete guide. Part 5 - How to create a cyberlink & use cyb.ai"
 date = 2022-12-23
 
 [taxonomies]
