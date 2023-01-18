@@ -8,7 +8,13 @@ tags = ["transcript", "evmos", "federicokunze", "podcast"]
 
 <iframe src="https://player.fireside.fm/v2/7d8ZfYhp+zoDiKGgm?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
-- Transcript of the Episode: 
+#citizencosmos
+
+- Episode link: https://www.citizencosmos.space/evmos
+
+- Episode name: Federico Kunze Küllmer, bridges, tokenomics & Berkley
+
+## Transcript of the Episode: 
 
 [00:00:00] Anna: Hey, it's Citizen Cosmos, we are Serge and Anna, and we discover Cosmos by chatting with awesome people from various teams within the Cosmos ecosystem and the community. Join us if you are curious about how dreams and ambitions become code!
 
