@@ -3,7 +3,7 @@ title = "Interchain Security"
 date = 2022-08-16
 
 [taxonomies]
-tags = ["article", "Interchain Security" "ics"]
+tags = ["article", "Interchain Security", "ics"]
 +++
 
 # Interchain Security 
