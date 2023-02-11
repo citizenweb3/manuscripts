@@ -12,7 +12,7 @@ Particles are bits of Information (text, image, audio, video files or any other 
 
 A cyberlink is a link between two particles registered in [Bostrom blockchain](https://cyb.ai/) by a particular neuron. In the case of Cyber and Bostrom a neuron is just another word for a user. Each user represents a neuron, and together - they represent a global formation of the superintelligence. To create a cyberlink in Bostrom, neurons need to have any number of Ampere and 1 or more Volt tokens on their balance.
 
-[![Frame-6.png](https://i.postimg.cc/D0s6JfKT/Frame-6.png)](https://postimg.cc/9wmZshM8) 
+[![Frame-6.png](https://i.postimg.cc/D0s6JfKT/Frame-6.png)](https://postimg.cc/9wmZshM8)
 
 <!-- more -->
 
