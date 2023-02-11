@@ -7,6 +7,7 @@ tags = ["stablecoins", "cosmos", "defi", "debate"]
 +++
 
 **[Interchain debates:Knights of the IBC, Stablecoins.](https://www.youtube.com/watch?v=nf9Ty8JoTYc)**
+{{ youtube(id="nf9Ty8JoTYc", autoplay=true, class="youtube") }}
 
 Stablecoins - a cryptocurrency with a fixed and stable rate, pegged to the price of fiat currency and with different collateral and reserves
 (whether cryptocurrency or fiat money). It is a popular and liquid medium as it is a convenient way to trade, store and protect your portfolio from volatility.
@@ -17,14 +18,14 @@ the different designs of stablecoins, what their purpose is, and the dangers of 
 
 [![Screenshot-592.png](https://i.postimg.cc/nVBTJwFm/Screenshot-592.png)](https://postimg.cc/dDQGR6TQ)
 
+<!-- more -->
+
 ***Q: What are stablecoins and what are they for?***
 
 According to ***Youseff***, stablecoin is a cryptocurrency that serves as a stable reserve asset, like the dollar, as well as a medium of exchange for daily transactions.
 It can also be a means to store value in the short term (because in the long term, stablcoins are often subject to inflation as well, though not as volatile as other
 cryptocurrencies) and a bridge between cryptocurrency and fiat currencies.
 ***Dove*** added that capital efficiency is really key, and that trading in a stablecoin pair obviously carries much less risk compared to pairs with two volatile assets.  
-
-<!-- more -->
 
 According to ***Chad***, it's also a way to change your risk profile.
 If you expect the markets to go down, you can sell your asset(bitcoin or whatever) and then buy again at the bottom.
