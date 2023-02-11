@@ -14,6 +14,8 @@ A cyberlink is a link between two particles registered in [Bostrom blockchain](h
 
 [![Frame-6.png](https://i.postimg.cc/D0s6JfKT/Frame-6.png)](https://postimg.cc/9wmZshM8) 
 
+<!-- more -->
+
 In other words, one can describe a cyberlink as the most simple, verifiable and immutable communication process. When subject A interacts with object B, they communicate. They do so by creating a cyberlink, which in its turn is the backbone route for all the information contained in Bostrom.
 
 There is a search bar in cyb.ai. When a user enters a query in the search bar cyb.ai computes the IPFS of query contents. If there are cyberlinks originating from the search query's IPFS hash, then the chain returns particles sorted by cyberrank, cyb.ai node retrieves files from IPFS and presents these results.
