@@ -7,7 +7,6 @@ tags = ["ics", "neutron", "smart contract", "cosmos", "ibc"]
 +++
 
 **[Cosmos: A citizen odyssey, ep. XIV, special mission - Neutron](https://www.youtube.com/watch?v=umvecK_toi4)**
-{{ youtube(id="umvecK_toi4", autoplay=true, class="youtube") }}
 
 During our latest episode of the Citizen Odyssey, we spoke with [Neutron's](https://www.citizencosmos.space/neutron) team. Our guests were [Soi](https://twitter.com/soi2studio) - Neutorn's community manager, [Spaydh](https://twitter.com/0xSpaydh) - the project manager and [Mike](https://twitter.com/pr0n00gler) - Go/Rust Dev. We discussed Interchain Security, interoperability, CosmWasm, dApps and much more. 
 
