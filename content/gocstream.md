@@ -7,7 +7,6 @@ tags = ["ics", "game of chains", "goc", "cosmos"]
 +++
 
 **[A citizen odyssey, ep. XII, special mission: Game of Chains recap](https://www.youtube.com/watch?v=RXMoF18bckU)**
-{{ youtube(id="RXMoF18bckU", autoplay=true, class="youtube") }}
 
 The Interchain Security protocol (ICS) is planned to launch on Cosmos in January 2023. To test it, an incentivized testnet program called [Game of Chains (GoC)](https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022#phase-1-two-dummy-chains) was launched.
 It’s the third public incentivized testnet in the history of Cosmos, after Game of Stakes and Game of Zones.
