@@ -8,9 +8,7 @@ tags = ["stablecoins", "cosmos", "defi", "debate"]
 
 **[Interchain debates:Knights of the IBC, Stablecoins.](https://www.youtube.com/watch?v=nf9Ty8JoTYc)**
 
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/watch?v=nf9Ty8JoTYc"
-  frameborder="0"></iframe>
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/nf9Ty8JoTYc" frameborder="0" allowfullscreen></iframe>
 
 Stablecoins - a cryptocurrency with a fixed and stable rate, pegged to the price of fiat currency and with different collateral and reserves
 (whether cryptocurrency or fiat money). It is a popular and liquid medium as it is a convenient way to trade, store and protect your portfolio from volatility.
