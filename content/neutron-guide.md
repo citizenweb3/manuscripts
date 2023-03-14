@@ -69,7 +69,7 @@ Neutron mainnet is scheduled for launch in the first quarter of 2023, currently 
 
 
 
-See also our episode with guests from Neutron, where they talk more about the project, validator and user incentives, and $NTRN token :
+See also our episode with guests from Neutron, where they talk more about the project, validator and user incentives, and $NTRN token:
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/umvecK_toi4" frameborder="0" allowfullscreen></iframe>
 
