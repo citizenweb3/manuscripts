@@ -1,19 +1,18 @@
 +++
 title = "From Blockchain to Social Media: A Quest for a Decentralized World"
 date = 2023-04-06
-+++
 
 [taxonomies]
 tags = ["decentralization", "Arweave", "technology", "decent.land", "permaweb", "arweave news"]
 +++
 
-https://player.fireside.fm/v2/7d8ZfYhp+LQxA5e06?theme=dark
+<iframe src="https://player.fireside.fm/v2/7d8ZfYhp+LQxA5e06?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
 **Benefits of decentralization and a comparison between decentralized and centralized systems**
 
 One of the key benefits of decentralization [we discussed](https://www.citizencosmos.space/benjamin) is that it eliminates the need for intermediaries, which can reduce costs and increase efficiency.
-Decentralized systems are also more secure and resilient, as there is no central point of failure. In contrast, centralized systems are vulnerable to hacking,
-censorship, and other forms of manipulation.
+
+Decentralized systems are also more secure and resilient, as there is no central point of failure. In contrast, centralized systems are vulnerable to hacking, censorship, and other forms of manipulation.
 
 **Challenges of implementing decentralized systems**
 
