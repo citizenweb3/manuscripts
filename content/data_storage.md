@@ -8,6 +8,7 @@ tags = ["podcast", "cryptopodcast", "cryptoadoption", "censorshipresistance", "d
 
 <iframe src="https://player.fireside.fm/v2/7d8ZfYhp+LQxA5e06?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
+
 **The Evolution of Data Storage**
 
 The way we store data has come a long way since the days of physical storage devices like floppy disks and CDs. In today's digital age, data storage has evolved to become much more accessible and efficient. However, the methods we use to store data are still vulnerable to hacking attacks, censorship, and data loss. This is where the concept of permanent storage comes into play.
@@ -35,7 +36,7 @@ In conclusion, the concept of permanent storage is crucial in today's digital ag
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Become a Citizen of Cosmos**. If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us [here](https://www.citizencosmos.space/staking)) 
+**Become a Citizen of the Cosmos**. If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us [here](https://www.citizencosmos.space/staking)
 
 - [EVMOS](https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
 - [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
