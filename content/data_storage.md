@@ -27,8 +27,7 @@ Permanent storage can also provide scalability and cost-effectiveness, making it
 
 The concept of permanent storage has been the subject of exploration and development in various ways, one of which is through blockchain technology. In a recent episode of our podcast, we had the pleasure of hosting Benjamin from Arweave.News (Now Permaweb.News) and Decent.Land, who is working on projects involving blockchain-based storage solutions. Permaweb.news calls itself the go-to source for community-driven news and updates about the Arweave ecosystem (a permanent storage infrastructure protocol). And Decent.Land is a set of web3 social protocols for identity, DAO governance and social networking built on Arweave. 
 
-We encourage you to tune in to our podcast episode to learn more about the concept of permanent storage through blockchain technology.
-https://www.citizencosmos.space/benjamin
+We encourage you to [tune in to our podcast episode](https://www.citizencosmos.space/benjamin) to learn more about the concept of permanent storage through blockchain technology.
 
 **Final Thoughts**
 
