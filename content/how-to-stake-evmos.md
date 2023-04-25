@@ -3,7 +3,7 @@ title = "How to stake ATOM"
 date = 2023-04-25
 
 [taxonomies]
-tags = ["guide", "cosmos", "atom", "staking"]
+tags = ["guide", "cosmos", "evmos", "staking"]
 +++
 
 Staking is the process of locking up a digital asset to provide economic security for a public blockchain. We have prepared a step-by-step guide on how to stake EVMOS
