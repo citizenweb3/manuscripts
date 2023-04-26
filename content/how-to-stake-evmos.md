@@ -1,5 +1,5 @@
 +++
-title = "How to stake ATOM"
+title = "How to stake EVMOS"
 date = 2023-04-25
 
 [taxonomies]
