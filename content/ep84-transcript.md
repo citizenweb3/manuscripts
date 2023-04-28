@@ -27,6 +27,7 @@ Good space-time, y'all. In this episode of The Citizen Cosmos podcast, I speak w
 Carter  
 Crypto’s at the crossroads of all those things. So many times, in this space we lose track of why the technology is valuable. And so why is decentralization so important? What is the problem that blockchain is ultimately solving?
 
+<!-- more -->
 
 Citizen Cosmos  
 Lets gets rid of everybody and go into chaos and destruction! That's why we need privacy. There is no difference to the model of government or to the model of the Mafiosi.
