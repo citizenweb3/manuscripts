@@ -20,7 +20,7 @@ They also explore what could be the catalyst for broader user adoption and give 
 Citizen Cosmos  
 Good space-time, y'all. In this episode of The Citizen Cosmos podcast, I speak with Jonathan Caras, currently working on Levana, collateralized trading platform. We discuss inflation, stablecoins, NFT’s in gaming, collapse of empires and the history of the Shekel. We also talk about dragons on Mars, the life cycle of living organisms and trust in money.
 
-Jonothan  
+Jonathan  
 I’ve worked for a company that built a fashion app called Screenshop for the Kardashians.
 It’s verifiable, you can store it in your head, it’s not sizeable by the government, it allows for arbitrage of electricity, it crosses borders.
 Do thought of it, like a year before me.
