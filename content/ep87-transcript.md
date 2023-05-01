@@ -27,6 +27,7 @@ What they were doing to print money was not different to what the US government 
 
 I don’t think everyone is going to make it, but what does make it out of this dot com bubble, will be the next Amazon or the next Google.
 
+<!-- more -->
 
 Citizen Cosmos  
  because you had to do a photo of your arse and a fingerprint of the head of your penis. Send them that and then maybe, maybe, maybe they would give you like 2 or 3 k.
