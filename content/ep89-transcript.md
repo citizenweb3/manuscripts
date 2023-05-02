@@ -10,7 +10,7 @@ Episode link:
 https://www.citizencosmos.space/chriscastig
 
 Episode name:  
-Chris Castig, Bots, Startups, & The new web
+Chris Castig, Bots, Startups, & The new web.
 
 In this episode, Citizen Cosmos
 talks to Chris Castig, co-founder of [Console.xyz](https://console.xyz/). Chris and Citizen Cosmos
