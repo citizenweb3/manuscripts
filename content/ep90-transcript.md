@@ -10,7 +10,7 @@ Episode link:
 https://www.citizencosmos.space/jaya
 
 Episode name:  
-Jaya Klara Brekke, Trust, Privacy & Drone Strikes
+Jaya Klara Brekke, Trust, Privacy & Drone Strikes.
 
 In this episode, Citizen Cosmos talks to Jaya Klara Brekke, head of strategy at Nym. They discuss the nature of man and if we can overcome our innate greed and embrace the more altruistic aspects of human nature to build a better tomorrow. Jaya discusses privacy and decentralisation and how she distinguishes between the different iterations of each. Jaya also gives a lot of detail regarding Nym and Nyx. And as always, Citizen Cosmos plays the devil’s advocate at key times.
 
