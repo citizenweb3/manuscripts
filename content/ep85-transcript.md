@@ -1,6 +1,6 @@
 +++
 title = "Episode #85 Jonathan Caras. Transcript"
-date = 2023-04-28
+date = 2023-04-23
 
 [taxonomies]
 tags = ["podcast", "transcript"]
