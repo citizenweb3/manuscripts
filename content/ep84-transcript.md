@@ -1,6 +1,6 @@
 +++
 title = "Episode #84 Carter Woetzel. Transcript"
-date = 2023-04-28
+date = 2023-04-22
 
 [taxonomies]
 tags = ["podcast", "transcript"]
