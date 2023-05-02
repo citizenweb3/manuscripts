@@ -1,6 +1,6 @@
 +++
 title = "Episode #88 Valerie Tetu. Transcript"
-date = 2023-05-01
+date = 2023-04-26
 
 [taxonomies]
 tags = ["podcast", "transcript"]
