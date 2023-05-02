@@ -1,6 +1,6 @@
 +++
 title = "Episode #82 Boris Mann. Transcript"
-date = 2023-04-27
+date = 2023-04-20
 
 [taxonomies]
 tags = ["podcast", "transcript"]
