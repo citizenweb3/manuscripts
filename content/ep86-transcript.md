@@ -1,6 +1,6 @@
 +++
 title = "Episode #86 Zarko Milosevic. Transcript"
-date = 2023-04-28
+date = 2023-04-24
 
 [taxonomies]
 tags = ["podcast", "transcript"]
