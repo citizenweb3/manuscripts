@@ -1,6 +1,6 @@
 +++
 title = "Episode #92 Denis Fadeev. Transcript"
-date = 2023-05-02
+date = 2023-04-30
 
 [taxonomies]
 tags = ["podcast", "transcript"]
