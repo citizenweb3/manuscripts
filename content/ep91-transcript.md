@@ -1,6 +1,6 @@
 +++
 title = "Episode #91 Jae Kwon. Transcript"
-date = 2023-05-02
+date = 2023-04-29
 
 [taxonomies]
 tags = ["podcast", "transcript"]
