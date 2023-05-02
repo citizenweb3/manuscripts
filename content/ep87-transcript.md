@@ -1,6 +1,6 @@
 +++
 title = "Episode #87 Eric Waisanen. Transcript"
-date = 2023-04-30
+date = 2023-04-25
 
 [taxonomies]
 tags = ["podcast", "transcript"]
