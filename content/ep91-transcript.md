@@ -7,7 +7,11 @@ tags = ["podcast", "transcript"]
 +++
 
 Episode link:  
-https://www.citizencosmos.space/jaekwon
+[https://www.citizencosmos.space/jaekwon](https://www.citizencosmos.space/jaekwon)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sCy5-Ugc74w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe src="https://player.fireside.fm/v2/7d8ZfYhp+TMGlIw81?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
 Episode name:  
 Jae Kwon, Cosmos, Censorship & Humanity.
