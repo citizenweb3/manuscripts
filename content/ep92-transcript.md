@@ -9,12 +9,13 @@ tags = ["podcast", "transcript"]
 Episode link:  
 [https://www.citizencosmos.space/denisfadeev](https://www.citizencosmos.space/denisfadeev)
 
-Episode name:  
-Denis Fadeev, Cosmos, Tribalism & Motivation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PYqw1vQCbHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe src="https://player.fireside.fm/v2/7d8ZfYhp+4laRpxAN?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
+
+Episode name:  
+Denis Fadeev, Cosmos, Tribalism & Motivation.
 
 In this episode of Citizen Cosmos podcast, the host interviews Denis Fadeev, developer of Ignite. They discuss the importance of valuing developer’s time, providing users with a feedback loop, and the necessity of tutorials and documentation in building a blockchain. Fadeev shares his passion for building for developers and the role of the CosmosHub in the ecosystem. They address the issue of tribalism in crypto and how Cosmos is working to fix it. The conversation then shifts to Ignite, a marketplace of sovereign blockchains, and how it helps projects build. They highlight the motivation to keep on building and the flexibility of Cosmos that keeps it interesting.
 
