@@ -7,7 +7,11 @@ tags = ["podcast", "transcript"]
 +++
 
 Episode link:  
-https://www.citizencosmos.space/borismann
+[https://www.citizencosmos.space/borismann](https://www.citizencosmos.space/borismann)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJ2bsBMgelI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe src="https://player.fireside.fm/v2/7d8ZfYhp+FiUXoJr9?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
 Episode name:  
 Boris Mann, storage, web applications & decentralization of web3.
