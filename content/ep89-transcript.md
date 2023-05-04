@@ -7,7 +7,11 @@ tags = ["podcast", "transcript"]
 +++
 
 Episode link:  
-https://www.citizencosmos.space/chriscastig
+[https://www.citizencosmos.space/chriscastig](https://www.citizencosmos.space/chriscastig)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lRNn9HJiieA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe src="https://player.fireside.fm/v2/7d8ZfYhp+j7TcZRgT?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
 Episode name:  
 Chris Castig, Bots, Startups, & The new web.
