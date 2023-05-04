@@ -7,7 +7,11 @@ tags = ["podcast", "transcript"]
 +++
 
 Episode link:  
-https://www.citizencosmos.space/lido
+[https://www.citizencosmos.space/lido](https://www.citizencosmos.space/lido)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KQbVd31n8_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe src="https://player.fireside.fm/v2/7d8ZfYhp+68C3CiGv?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
 Episode name:  
 Valerie Tetu, empathy, market strategy & public good.
