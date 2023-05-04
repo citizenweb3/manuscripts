@@ -7,7 +7,11 @@ tags = ["podcast", "transcript"]
 +++
 
 Episode link:  
-https://www.citizencosmos.space/ericwaisanen
+[https://www.citizencosmos.space/ericwaisanen](https://www.citizencosmos.space/ericwaisanen)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qVQwWZLheRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe src="https://player.fireside.fm/v2/7d8ZfYhp+byJyiX62?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
 Episode name:  
 Eric Waisanen, game theory, inflation & token value.
