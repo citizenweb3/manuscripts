@@ -26,11 +26,10 @@ Good space time, y'all. In this episode in the Citizen Cosmos podcast, I spoke t
 Citizen Cosmos  
 At the end of the day, this is communication tools, and if the communities will not communicate, there will be nothing. I think semantics does definitely play a huge role in understanding to everything.
 
-<!-- more -->
-
 Pedro  
 An address on the blockchain is a reference to a blockchain account, and a blockchain account itself is not even a wallet. When you have money in a bank account, you don't technically on it. You have a contract with the bank.
 
+<!-- more -->
 
 Citizen Cosmos  
 Hi everybody. Welcome to a new episode of Citizen Cosmos podcast. Today I have Pedro Gomez with me today, the founder of Wallet Connect. Pedro, Hi.
