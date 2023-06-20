@@ -19,9 +19,9 @@ And next click on **Teleport**:
 
 [![cd3.png](https://i.postimg.cc/fTNSvCNh/cd3.png)](https://postimg.cc/vD0mYWTP)
 
-Here we can exchange BOOT, A, V, H, LP, TOCYB, PUSSY, ATOM, EVMOS, JUNO, GRAV, DSM. Before exchanging a non-native coin requires sending it to the Bostrom chain, I will show by the example of exchanging ATOM to H.
+Here we can exchange **BOOT, A, V, H, LP, TOCYB, PUSSY, ATOM, EVMOS, JUNO, GRAV, DSM**. Before exchanging a non-native coin requires sending it to the Bostrom chain, I will show by the example of exchanging ATOM to H.
 
-First, We need to transfer ATOM from cosmos-hub to bostrom. Choose the amount of ATOM that we will transfer to Bostrom and click on Deposit:
+First, We need to transfer ATOM from cosmos hub to bostrom. Choose the amount of ATOM that we will transfer to bostrom and click on Deposit:
 
 [![cd4.png](https://i.postimg.cc/yY4pXMxY/cd4.png)](https://postimg.cc/6TchB1CD)
 
