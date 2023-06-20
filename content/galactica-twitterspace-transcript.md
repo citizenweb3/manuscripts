@@ -6,10 +6,23 @@ date = 2023-06-13
 tags = ["twitterspace", "transcript", "galactica"]
 +++
 
-[Sarvodoya](https://twitter.com/Sarvodaya_gala)&[AStar](https://twitter.com/AStar_Gala) from [Galactica](https://twitter.com/GalacticaNet). Twitter space link:
 
-[https://twitter.com/i/spaces/1yoKMZzZjZoGQ](https://twitter.com/i/spaces/1yoKMZzZjZoGQ)
 
+Link to Twitter Space: [https://twitter.com/i/spaces/1yoKMZzZjZoGQ?s=20](https://twitter.com/i/spaces/1yoKMZzZjZoGQ?s=20)
+
+Links:
+- Galactica Website  [https://galactica.com](https://galactica.com)
+- Cosmos SDK [https://v1.cosmos.network/sdk](https://v1.cosmos.network/sdk)
+- Central Bank Digital Currency (CBDC) [https://v1.cosmos.network/sdk](https://v1.cosmos.network/sdk)
+- Universal Basic Income [https://www.investopedia.com/terms/b/basic-income.asp](https://www.investopedia.com/terms/b/basic-income.asp)
+- Desoc by Vitalik [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)
+- Radical Markets [https://press.princeton.edu/books/hardcover/9780691177502/radical-markets](https://press.princeton.edu/books/hardcover/9780691177502/radical-markets)
+- The Cypher State [https://thecypherstate.com/](https://thecypherstate.com/)
+- ZK Roll-up [https://ethereum.org/en/developers/docs/scaling/zk-rollups/](https://ethereum.org/en/developers/docs/scaling/zk-rollups/)
+- Tornado Cash [https://en.wikipedia.org/wiki/Tornado_Cash](https://en.wikipedia.org/wiki/Tornado_Cash)
+- Sarvodaya_gala twitter [https://twitter.com/Sarvodaya_gala](https://twitter.com/Sarvodaya_gala)
+- Galactica twitter [https://twitter.com/GalacticaNet](https://twitter.com/GalacticaNet)
+- Astar_Gala twitter [https://twitter.com/AStar_Gala](https://twitter.com/AStar_Gala)     
 
 --------------------------------------------------------------------------------------------------------
 
