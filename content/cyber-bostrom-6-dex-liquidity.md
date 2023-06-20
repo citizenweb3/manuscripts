@@ -1,6 +1,6 @@
 +++
 title = "Bostrom-Cyber: a complete guide. Part 6 - How to use cyber DEX and add liquidity"
-date = 2022-06-20
+date = 2023-06-20
 
 [taxonomies]
 tags = ["guide", "cyber", "bostrom", "spacepussy", "ai"]
