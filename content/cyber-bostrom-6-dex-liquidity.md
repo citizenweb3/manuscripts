@@ -31,6 +31,33 @@ Great, now our Atom is on the Bostrom chain. Now we can exchange this Atom for H
 
 Other available coins can be exchanged in the same way.
 
+## How to add liquidity on cyb.ai ##
+
+In order to add liquidity to the pool we need to go to the **Warp** section:
+
+[![cd6.png](https://i.postimg.cc/05WJ9fgV/cd6.png)](https://postimg.cc/pyjdZKLj)
+
+Here we will see all available pools, the volume of liquidity, and your share in the pools:
+
+[![Screenshot-830.png](https://i.postimg.cc/sfTKbqVx/Screenshot-830.png)](https://postimg.cc/dDT8yWZc)
+
+To add liquidity to the pool click on **add liquidity**:
+
+[![cd7.png](https://i.postimg.cc/Gtf6NG8r/cd7.png)](https://postimg.cc/YL1XL4zy)
+
+Choose a pair and an amount that we want to add to the pool and click on **deposit**:
+
+[![cd8.png](https://i.postimg.cc/CLPGCsZr/cd8.png)](https://postimg.cc/BXFP4DB2)
+
+And confirm the transaction in the Keplr:
+
+[![Screenshot-833.png](https://i.postimg.cc/6pGpZ4pk/Screenshot-833.png)](https://postimg.cc/87NGQ5W4)
+
+Done, liquidity has been successfully added. To see your share of the pool, go back to the warp tab:
+
+[![cd9.png](https://i.postimg.cc/nLYvBhF1/cd9.png)](https://postimg.cc/nsrjtZQs)
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us [here](https://www.citizencosmos.space/staking): 
