@@ -13,7 +13,7 @@ Episode link:
 
 <iframe src="https://player.fireside.fm/v2/7d8ZfYhp+XItrW_VM?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
-Episode name:
+Episode name:  
 The Web3 Puzzle: Decoding Scammers, Web3 lending, and Scalability with Chad Barraford
 
 In this episode,  Chad Barraford The Technical Lead from THORchain is interviewed. Chad gives us his story behind the birth and ethos of THORchain, as well as giving details on their unique lending product. Chad explains how he managed to get a super user account at Twitter. There is also a discussion around scalability of chains, as well as what it would take to get THORchain to consider being part of IBC.
