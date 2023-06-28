@@ -26,6 +26,8 @@ Hi everyone, welcome to a new episode of the Citizen Cosmos Podcast. And today I
 Sistla:  
 I'm doing great. Glad to be here on the Citizen Cosmos Podcast. Been hearing it, been following it, know all the builders that are coming down week after week and glad to see you continue even after all these years. So I'm pretty excited to be here
 
+<!-- more -->
+
 Citizen Cosmos:  
 Thanks.
 
