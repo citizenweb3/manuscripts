@@ -13,6 +13,8 @@ Let's go to cyb.ai and connect Keplr(If you have not yet registered and receive
 
 [![cd1.png](https://i.postimg.cc/4yFvYhY3/cd1.png)](https://postimg.cc/V0n0TvBy)
 
+<!-- more -->
+
 [![cd2.png](https://i.postimg.cc/FFPVWwTQ/cd2.png)](https://postimg.cc/qg3KgDfm)
 
 And next click on **Teleport**:
