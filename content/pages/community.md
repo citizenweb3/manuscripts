@@ -1,6 +1,7 @@
-+++ 
-title = "our community"
-path = "community" 
++++
+title = "community"
+path = "community"
 +++
 
 Hello, World?!
+
