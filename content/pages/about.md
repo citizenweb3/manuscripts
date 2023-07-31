@@ -1,5 +1,5 @@
 +++
-title = "about Citizen Cosmos"
+title = "About Citizen Cosmos"
 path = "about"
 +++
 
