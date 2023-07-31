@@ -1,3 +1,3 @@
-+++ title = "our community" path = "our community" +++
++++ title = "our community" path = "community" +++
 
 Hello, World?!
