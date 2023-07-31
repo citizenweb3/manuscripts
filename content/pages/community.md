@@ -1,3 +1,3 @@
-+++ title = "community of Citizen Cosmos" path = "community" +++
++++ title = "our community" path = "our community" +++
 
-Hello, World?!!
+Hello, World?!
