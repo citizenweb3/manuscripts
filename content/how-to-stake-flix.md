@@ -5,47 +5,12 @@ date = 2023-05-25
 [taxonomies]
 tags = ["guide", "cosmos", "flix", "staking"]
 +++
-Staking is the process of locking up a digital asset to provide economic security for a public blockchain. We have prepared a step-by-step guide on how to stake FLIX using ping.pub, Keplr Dashboard and Omniflix dApp.
+Staking is the process of locking up a digital asset to provide economic security for a public blockchain. We have prepared a step-by-step guide on how to stake FLIX using Keplr Dashboard and Omniflix dApp.
 If you don't have FLIX, you can obtain them at [Osmosis](https://app.osmosis.zone/).
 
-## 1. How to stake FLIX using [ping.pub](ping.pub) ##
-
-First, go to the [ping.pub](https://ping.pub/omniflix/) and connect the [Keplr](https://www.keplr.app/)(If you do not have it installed you can download it [here](https://www.keplr.app/download)):
-
-<!-- more -->
-
-[![o1.png](https://i.postimg.cc/rw2ccjc7/o1.png)](https://postimg.cc/3d1zFgkZ)
-
-[![o2.png](https://i.postimg.cc/GhGtkHpw/o2.png)](https://postimg.cc/hf4Kn4xp)
-
-[![o3.png](https://i.postimg.cc/261835tt/o3.png)](https://postimg.cc/1nZZjys0)
-
-To delegate the Сitizen Сosmos validator, you can follow this [link](https://ping.pub/omniflix/staking/omniflixvaloper1wnpak7sfawsfv9c8vqe7naxfa4g99lv7djfn8n) or search for Citizen Cosmos in the search box, and click on 
-**Delegate**:
-
-[![o4.png](https://i.postimg.cc/d1WFRcby/o4.png)](https://postimg.cc/wysnHZTq)
-
-Choose an amount to delegate and click on **Send**:
-
-[![o5.png](https://i.postimg.cc/9XK5cbCC/o5.png)](https://postimg.cc/K4PsNn1H)
-
-And confirm the transaction in Keplr:
-
-[![o6.png](https://i.postimg.cc/s2Y7gwt8/o6.png)](https://postimg.cc/94frxtXt)
-
-Congratulations, you have successfully staked your FLIX:
-
-[![o7.png](https://i.postimg.cc/MZQM6sVY/o7.png)](https://postimg.cc/4nXNwQ8K)
-
-## 2. How to stake FLIX using Keplr Dashboard ##
+## 1. How to stake FLIX using Keplr Dashboard ##
 To delegate the Сitizen Сosmos validator, you can follow this [link](https://wallet.keplr.app/chains/omniflix?modal=validator&chain=omniflixhub-1&validator_address=omniflixvaloper1wnpak7sfawsfv9c8vqe7naxfa4g99lv7djfn8n)
-or find the Citizen Cosmos validator manually, to do this open [Keplr](https://www.keplr.app/)(If you do not have it installed you can download it [here](https://www.keplr.app/download)), and select the **Omniflix** chain( make sure you have some FLIX balance):
-
-[![o8.png](https://i.postimg.cc/85r5C5JC/o8.png)](https://postimg.cc/njpZRn18)
-
-To stake your FLIX, all you have to do is click **Stake** in the Keplr wallet:
-
-[![o9.png](https://i.postimg.cc/ryNTNxkk/o9.png)](https://postimg.cc/F1zw9fzW)
+or find the Citizen Cosmos validator manually, to do this open this [link](https://wallet.keplr.app/chains/omniflix)(make sure you have some FLIX balance):
 
 The Keplr Dashboard website will open, and by scrolling down the page below we will see a list of validators.
 You can find the Citizen Cosmos validator by scrolling down the page, or by searching for "Citizen Cosmos":
@@ -71,7 +36,7 @@ Choose an amount to delegate and click on **Delegate**:
 
 And confirm the transaction in Keplr:
 
-[![o15.png](https://i.postimg.cc/3RK7DFwW/o15.png)](https://postimg.cc/v1SCJ9fd)
+[![Screenshot-871.png](https://i.postimg.cc/bvW5FpvL/Screenshot-871.png)](https://postimg.cc/jW6vDVPJ)
 
 Done. Your available and staked balance will be displayed on the home page, as well as in your Keplr:
 
@@ -87,7 +52,7 @@ First, go to the [Omniflix dApp](https://flix.omniflix.co/stake) and connect the
 
 [![Screenshot-776.png](https://i.postimg.cc/tgpDb5y4/Screenshot-776.png)](https://postimg.cc/Xr19c9pR)
 
-[![o19.png](https://i.postimg.cc/7LHc9D59/o19.png)](https://postimg.cc/G4fq3WJT)
+[![Screenshot-872.png](https://i.postimg.cc/G3GpKpp7/Screenshot-872.png)](https://postimg.cc/Th2GYfgg)
 
 You can find the Citizen Cosmos validator by scrolling down the page:
 
@@ -107,7 +72,7 @@ Choose an amount to delegate and click on **Delegate**:
 
 And confirm the transaction in Keplr:
 
-[![o24.png](https://i.postimg.cc/1zSgY7SJ/o24.png)](https://postimg.cc/v4PH4zcV)
+[![Screenshot-873.png](https://i.postimg.cc/7PVFqvtP/Screenshot-873.png)](https://postimg.cc/0rzWC4qh)
 
 Congratulations, you have successfully staked your FLIX:
 
@@ -127,6 +92,8 @@ If you would like to support our mission in creating educational content and ali
 - [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
 - [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
 - [FLIX](https://wallet.keplr.app/chains/omniflix?modal=validator&chain=omniflixhub-1&validator_address=omniflixvaloper1wnpak7sfawsfv9c8vqe7naxfa4g99lv7djfn8n)
+- [BCNA](https://wallet.bitcanna.io/validators/bcnavaloper1ngt4atd3qlgcwfv7fkjdjxhz7k0vl2rejrvzye)
+- [LIKE](https://dao.like.co/validators/likevaloper136r5phdpc02gmtmyampl9qkv0mdq385xxsaadu)
 
 Join our [community](https://discord.gg/kJaG3EucCX), to build a future where communication is decentralized. May the code be with you!
 
