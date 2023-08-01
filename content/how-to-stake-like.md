@@ -20,7 +20,7 @@ First go to the [dao.like.co](https://dao.like.co/welcome/) and click on **Keplr
 
 And connect the Keplr:
 
-[![l2.png](https://i.postimg.cc/3xM5n4LK/l2.png)](https://postimg.cc/svJN2Xd8)
+[![Screenshot-868.png](https://i.postimg.cc/mgGHmRmy/Screenshot-868.png)](https://postimg.cc/LnN5XdKJ)
 
 Next, click on **Validators** to see all the validators:
 
