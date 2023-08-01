@@ -20,7 +20,7 @@ First go to the [BitCanna Wallet](https://wallet.bitcanna.io/welcome) and click 
 
 And connect the Keplr:
 
-[![b2.png](https://i.postimg.cc/13vc8J76/b2.png)](https://postimg.cc/WdJJK6vb)
+[![Screenshot-869.png](https://i.postimg.cc/3wQdZHZQ/Screenshot-869.png)](https://postimg.cc/68zW9gSM)
 
 Next, click on **Validators** to see all the validators:
 
