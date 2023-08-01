@@ -64,6 +64,7 @@ If you would like to support our mission in creating educational content and ali
 - [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
 - [FLIX](https://wallet.keplr.app/chains/omniflix?modal=validator&chain=omniflixhub-1&validator_address=omniflixvaloper1wnpak7sfawsfv9c8vqe7naxfa4g99lv7djfn8n)
 - [BCNA](https://wallet.bitcanna.io/validators/bcnavaloper1ngt4atd3qlgcwfv7fkjdjxhz7k0vl2rejrvzye)
+- [LIKE](https://dao.like.co/validators/likevaloper136r5phdpc02gmtmyampl9qkv0mdq385xxsaadu)
 
 Join our [community](https://discord.gg/kJaG3EucCX), to build a future where communication is decentralized. May the code be with you!
 
