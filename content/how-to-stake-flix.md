@@ -10,7 +10,7 @@ If you don't have FLIX, you can obtain them at [Osmosis](https://app.osmosis.zon
 
 ## 1. How to stake FLIX using Keplr Dashboard ##
 To delegate the Сitizen Сosmos validator, you can follow this [link](https://wallet.keplr.app/chains/omniflix?modal=validator&chain=omniflixhub-1&validator_address=omniflixvaloper1wnpak7sfawsfv9c8vqe7naxfa4g99lv7djfn8n)
-or find the Citizen Cosmos validator manually, to do this open this [link](https://wallet.keplr.app/chains/omniflix)(make sure you have some FLIX balance):
+or find the Citizen Cosmos validator manually, to do this open [Keplr wallet dashboard](https://wallet.keplr.app/chains/omniflix)(make sure you have some FLIX balance):
 
 The Keplr Dashboard website will open, and by scrolling down the page below we will see a list of validators.
 You can find the Citizen Cosmos validator by scrolling down the page, or by searching for "Citizen Cosmos":
