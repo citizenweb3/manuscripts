@@ -44,7 +44,7 @@ Next, click on **Send** and approve the transaction:
 
 [![b8.png](https://i.postimg.cc/MXJJXN39/b8.png)](https://postimg.cc/N2DzzJcX)
 
-[![Screenshot-800.png](https://i.postimg.cc/Zq5nTvdC/Screenshot-800.png)](https://postimg.cc/87xN45wS)
+[![Screenshot-874.png](https://i.postimg.cc/xTGWTXfz/Screenshot-874.png)](https://postimg.cc/kB4jTXtJ)
 
 Congratulations, you have successfully staked your BCNA:
 
