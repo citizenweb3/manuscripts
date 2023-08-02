@@ -42,9 +42,9 @@ Done. Your available and staked balance will be displayed on the home page, as w
 
 [![o16.png](https://i.postimg.cc/gkfWKW0C/o16.png)](https://postimg.cc/F7g89w3p)
 
-[![o17.png](https://i.postimg.cc/1zS1LrwM/o17.png)](https://postimg.cc/rDfH4Wht)
+[![Screenshot-876.png](https://i.postimg.cc/0NkRrDQJ/Screenshot-876.png)](https://postimg.cc/hX535JVS)
 
-## 3. How to stake FLIX using Omniflix dApp ##
+## 2. How to stake FLIX using Omniflix dApp ##
 
 First, go to the [Omniflix dApp](https://flix.omniflix.co/stake) and connect the Keplr or Cosmostation wallet:
 
