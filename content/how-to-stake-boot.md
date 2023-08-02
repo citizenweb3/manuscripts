@@ -14,6 +14,8 @@ using Keplr Dashboard and [cyb.ai](https://cyb.ai/).
 To delegate the Сitizen Сosmos validator, you can follow this [link](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
 or find the Citizen Cosmos validator manually, to do this open [Keplr Dashboard](https://wallet.keplr.app/chains/bostrom)(make sure you have some BOOT balance).
 
+<!-- more -->
+
 The Keplr Dashboard website will open, and by scrolling down the page below we will see a list of validators:
 
 [![Screenshot-672.png](https://i.postimg.cc/0ymbN64p/Screenshot-672.png)](https://postimg.cc/G4Lc7pd2)
