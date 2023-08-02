@@ -7,20 +7,12 @@ tags = ["guide", "cosmos", "boot", "staking", "cyber"]
 +++
 
 Staking is the process of locking up a digital asset to provide economic security for a public blockchain. We have prepared a step-by-step guide on how to stake BOOT
-using Keplr and [cyb.ai](https://cyb.ai/).
+using Keplr Dashboard and [cyb.ai](https://cyb.ai/).
 
-## 1. How to stake BOOT using Keplr ##
+## 1. How to stake BOOT using Keplr Dashboard ##
 
-First open [Keplr](https://www.keplr.app/)(If you do not have it installed you can download it [here](https://www.keplr.app/download)), select the Bostrom chain(make sure you have some BOOT balance. You can see our
-guide on [how to obtain BOOT](https://citizen-cosmos.github.io/manuscripts/cyber-bostrom-2-how-to-obtain-boot/)):
-
-<!-- more -->
-
-[![Screenshot-440.png](https://i.postimg.cc/gkB1d0qc/Screenshot-440.png)](https://postimg.cc/BXHmB4VR)
-
-To stake your BOOT, all you have to do is click **Stake** in the Keplr wallet:
-
-[![Screenshot-446.png](https://i.postimg.cc/RVnL6VxZ/Screenshot-446.png)](https://postimg.cc/0bPwhvNT)
+To delegate the Сitizen Сosmos validator, you can follow this [link](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
+or find the Citizen Cosmos validator manually, to do this open [Keplr Dashboard](https://wallet.keplr.app/chains/bostrom)(make sure you have some BOOT balance).
 
 The Keplr Dashboard website will open, and by scrolling down the page below we will see a list of validators:
 
@@ -52,13 +44,13 @@ Choose an amount to delegate and click on **Delegate**:
 
 And confirm the transaction in Keplr:
 
-[![Screenshot-677.png](https://i.postimg.cc/8cjYSfHv/Screenshot-677.png)](https://postimg.cc/SYbdLsHQ)
+[![Screenshot-875.png](https://i.postimg.cc/h4wxK0jh/Screenshot-875.png)](https://postimg.cc/QVQVb1cr)
 
 Done. Your available and staked balance will be displayed on the home page, as well as in your Keplr:
 
 [![Screenshot-678.png](https://i.postimg.cc/8z4MGKn2/Screenshot-678.png)](https://postimg.cc/qNtzXLrw)
 
-[![Screenshot-742.png](https://i.postimg.cc/Ss2MWyN4/Screenshot-742.png)](https://postimg.cc/Q9DCDZTY)
+[![Screenshot-876.png](https://i.postimg.cc/0NkRrDQJ/Screenshot-876.png)](https://postimg.cc/hX535JVS)
 
 ## 2. How to stake BOOT using [cyb.ai](https://cyb.ai/) ##
 
@@ -87,7 +79,7 @@ Click on **Stake**, enter the amount of BOOT and **Generate TX**:
 
 Confirm the transaction in Keplr:
 
-[![22.png](https://i.postimg.cc/1X6P0dq4/22.png)](https://postimg.cc/5QxZbnpM)
+[![Screenshot-876.png](https://i.postimg.cc/0NkRrDQJ/Screenshot-876.png)](https://postimg.cc/hX535JVS)
 
 Great, our transactions was included in the block:
 
@@ -104,5 +96,8 @@ If you would like to support our mission in creating educational content and ali
 - [EVMOS](https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
 - [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
 - [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
+- [FLIX](https://wallet.keplr.app/chains/omniflix?modal=validator&chain=omniflixhub-1&validator_address=omniflixvaloper1wnpak7sfawsfv9c8vqe7naxfa4g99lv7djfn8n)
+- [BCNA](https://wallet.bitcanna.io/validators/bcnavaloper1ngt4atd3qlgcwfv7fkjdjxhz7k0vl2rejrvzye)
+- [LIKE](https://dao.like.co/validators/likevaloper136r5phdpc02gmtmyampl9qkv0mdq385xxsaadu)
 
 Join our [community](https://discord.gg/kJaG3EucCX), to build a future where communication is decentralized. May the code be with you!
