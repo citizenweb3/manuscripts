@@ -10,14 +10,12 @@ Staking is the process of locking up a digital asset to provide economic securit
 using Keplr (you might be using any other wallet. It doesn't really matter. The staking option works more or less the same. The idea is that you need to find the
 'reward' or the 'validator' tab and then delegate the desired amount to a desired validator).
 
-## How to stake ATOM using Keplr ##
+## How to stake ATOM using Keplr Dashboard ##
 
-First open [Keplr](https://www.keplr.app/) (If you do not have it installed you can download the browser extension [here](https://www.keplr.app/download)), make sure
-you have some ATOM balance, and click on Stake:
+To delegate the Сitizen Сosmos validator, you can follow this [link](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u)
+or find the Citizen Cosmos validator manually, to do this open [Keplr Dashboard](https://wallet.keplr.app/chains/cosmos-hub)(make sure you have some BOOT balance).
 
 <!-- more -->
-
-[![1.png](https://i.postimg.cc/3xG8n7nB/1.png)](https://postimg.cc/MnWJGkkM)
 
 This will open a new browser window, in which you will see the list of the current, active validators. Make sure that in the menu 'Cosmos Hub' is selected:
 
@@ -41,11 +39,11 @@ Choose an amount to delegate and click on Delegate:
 
 And confirm the transaction in Keplr:
 
-[![Screenshot-666.png](https://i.postimg.cc/1t34W2g3/Screenshot-666.png)](https://postimg.cc/06h8jtdT)
+[![Screenshot-877.png](https://i.postimg.cc/hjnrK1PH/Screenshot-877.png)](https://postimg.cc/sBnScSWc)
 
 Done. Your available and staked balance will be displayed on the home page, as well as in your Keplr:
 
-[![Screenshot-668.png](https://i.postimg.cc/4x19Bz8w/Screenshot-668.png)](https://postimg.cc/18fXzN1N)
+[![Screenshot-876.png](https://i.postimg.cc/0NkRrDQJ/Screenshot-876.png)](https://postimg.cc/hX535JVS)
 
 [![Screenshot-669.png](https://i.postimg.cc/wj9ty16N/Screenshot-669.png)](https://postimg.cc/w7bxnTRx)
 
@@ -56,5 +54,8 @@ If you would like to support our mission in creating educational content and ali
 - [EVMOS](https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
 - [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
 - [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
+- [FLIX](https://wallet.keplr.app/chains/omniflix?modal=validator&chain=omniflixhub-1&validator_address=omniflixvaloper1wnpak7sfawsfv9c8vqe7naxfa4g99lv7djfn8n)
+- [BCNA](https://wallet.bitcanna.io/validators/bcnavaloper1ngt4atd3qlgcwfv7fkjdjxhz7k0vl2rejrvzye)
+- [LIKE](https://dao.like.co/validators/likevaloper136r5phdpc02gmtmyampl9qkv0mdq385xxsaadu)
 
 Join our [community](https://discord.gg/kJaG3EucCX), to build a future where communication is decentralized. May the code be with you!
