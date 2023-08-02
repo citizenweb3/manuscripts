@@ -13,7 +13,7 @@ using Keplr (you might be using any other wallet. It doesn't really matter. The 
 ## How to stake ATOM using Keplr Dashboard ##
 
 To delegate the Сitizen Сosmos validator, you can follow this [link](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u)
-or find the Citizen Cosmos validator manually, to do this open [Keplr Dashboard](https://wallet.keplr.app/chains/cosmos-hub)(make sure you have some BOOT balance).
+or find the Citizen Cosmos validator manually, to do this open [Keplr Dashboard](https://wallet.keplr.app/chains/cosmos-hub)(make sure you have some ATOM balance).
 
 <!-- more -->
 
