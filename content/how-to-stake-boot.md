@@ -81,7 +81,7 @@ Click on **Stake**, enter the amount of BOOT and **Generate TX**:
 
 Confirm the transaction in Keplr:
 
-[![Screenshot-876.png](https://i.postimg.cc/0NkRrDQJ/Screenshot-876.png)](https://postimg.cc/hX535JVS)
+[![Screenshot-877.png](https://i.postimg.cc/hjnrK1PH/Screenshot-877.png)](https://postimg.cc/sBnScSWc)
 
 Great, our transactions was included in the block:
 
