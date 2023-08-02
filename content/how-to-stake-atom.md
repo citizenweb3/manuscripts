@@ -39,7 +39,7 @@ Choose an amount to delegate and click on Delegate:
 
 And confirm the transaction in Keplr:
 
-[![Screenshot-877.png](https://i.postimg.cc/hjnrK1PH/Screenshot-877.png)](https://postimg.cc/sBnScSWc)
+[![Screenshot-878.png](https://i.postimg.cc/2jbRKnKC/Screenshot-878.png)](https://postimg.cc/Z0SM9vmQ)
 
 Done. Your available and staked balance will be displayed on the home page, as well as in your Keplr:
 
