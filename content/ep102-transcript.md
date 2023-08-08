@@ -30,6 +30,7 @@ Hi, thanks for having me.
 Citizen Cosmos  
 I'm very glad to be having you. We are slowly, in Citizen Cosmos, have been trying to interview people outside of just Cosmos ecosystem. And in my opinion, you happen to be such kind of a person who's not just focused on the Cosmos ecosystem, but focused on the whole of Interchain. And this has been our object and goal all along. So first, I mean, I already said CEO and founder of Interlay, but please, if you could make your own intro with you know, whatever you are working on, whatever you fancy telling about yourself, please.
 
+<!-- more -->
 
 Alexei  
 Sure. So I'm Alexei. I'm the co-founder of Interlay. We try not to use the word CEO, because Interlay is a network, so we actually don't have a CEO or anything. I am the CEO of the software company that is building the open source software for it. I'm a computer scientist by trade. I got into Bitcoin in 2015 and have been working in that space, on the research side. So I actually come from a research background.
