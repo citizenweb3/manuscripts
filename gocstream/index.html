@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Citizen Cosmos blog</title>
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta name="robots" content="noodp"/>
+
+    <link rel="stylesheet" href="https://citizen-cosmos.github.io/manuscripts/style.css">
+    <link rel="stylesheet" href="https://citizen-cosmos.github.io/manuscripts/color/blue.css">
+
+    <link rel="stylesheet" href="https://citizen-cosmos.github.io/manuscripts/font-hack-subset.css">
+
+    </head>
+
+<body class="">
+<div class="container">
+    
+    <header class="header">
+        <div class="header__inner">
+            <div class="header__logo">
+                    
+                <a href="https://citizen-cosmos.github.io/manuscripts" style="text-decoration: none;">
+                    <div class="logo">
+                      
+                            Citizen Cosmos
+                        
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        
+        
+                <nav class="menu">
+            <ul class="menu__inner">
+                <li class="active"><a href="https://citizen-cosmos.github.io/manuscripts">blog</a></li>
+            
+                <li><a href="https://citizen-cosmos.github.io/manuscripts/tags">tags</a></li>
+            
+                <li><a href="https://citizen-cosmos.github.io/manuscripts/archive">archive</a></li>
+            
+                <li><a href="https://citizen-cosmos.github.io/manuscripts/about">about us</a></li>
+            
+                <li><a href="https://citizen-cosmos.github.io/manuscripts/community">our community</a></li>
+            
+                <li><a href="https://github.com/citizen-cosmos" target="_blank" rel="noopener noreferrer">github</a></li>
+            </ul>
+        </nav>
+    
+    
+        
+    </header>
+    
+
+    <div class="content">
+        
+    <div class="post">
+        
+    <h1 class="post-title"><a href="https://citizen-cosmos.github.io/manuscripts/gocstream/">Game of Chains stream</a></h1>
+    <div class="post-meta-inline">
+        
+    <span class="post-date">
+            2022-11-18
+        </span>
+
+    </div>
+
+    
+        <span class="post-tags-inline">
+                :: tags:&nbsp;
+                <a class="post-tag" href="https://citizen-cosmos.github.io/manuscripts/tags/ics/">#ics</a>&nbsp;
+                <a class="post-tag" href="https://citizen-cosmos.github.io/manuscripts/tags/game-of-chains/">#game of chains</a>&nbsp;
+                <a class="post-tag" href="https://citizen-cosmos.github.io/manuscripts/tags/goc/">#goc</a>&nbsp;
+                <a class="post-tag" href="https://citizen-cosmos.github.io/manuscripts/tags/cosmos/">#cosmos</a></span>
+    
+
+        
+        <div class="post-content">
+            <p><strong><a href="https://www.youtube.com/watch?v=RXMoF18bckU">A citizen odyssey, ep. XII, special mission: Game of Chains recap</a></strong></p>
+<p>The Interchain Security protocol (ICS) is planned to launch on Cosmos in January 2023. To test it, an incentivized testnet program called <a href="https://github.com/hyphacoop/ics-testnets/tree/main/game-of-chains-2022#phase-1-two-dummy-chains">Game of Chains (GoC)</a> was launched.
+It’s the third public incentivized testnet in the history of Cosmos, after Game of Stakes and Game of Zones.</p>
+<p>Citizen Cosmos, <a href="https://provider-explorer.goc.earthball.xyz/validators/cosmosvaloper12zmahaunzfq8w3fwkv6uds69jsqszltyp5tk7m">being a participant</a>, called members of Testnet Jury <strong><a href="https://twitter.com/JTremback">Jehan Tremback</a></strong> <a href="https://www.citizencosmos.space/jelena">(Informal Systems)</a>
+and <strong><a href="https://twitter.com/UditVira">Udit Vira</a></strong> <a href="https://twitter.com/hyphacoop">(Hypha Worker Co-operative)</a> to talk about GoC and ask them questions of concern.</p>
+<p><strong>Q: What is the difference between this game and the previous ones?</strong></p>
+<p>As part of a brief historical overview, Udit explained what <a href="https://citizen-cosmos.github.io/blog/gameofchains.html">GoC</a> is and how this game differs from the previous two Cosmos games. 
+Game of Stakes was based on testing proof-of-stake mechanism, its goal was to understand all possible attack vectors. 
+<a href="https://www.citizencosmos.space/game-of-zones">Game of Zones</a> came for the launch of IBC, and people were testing how IBC packets were being relayed between the different zones, which provided an
+opportunity to actually prove that this IBC ecosystem of sovereign interoperability where we had independent zones working together was something that could come to fruition.</p>
+<p><em><strong>What is GoC?</strong></em></p>
+<p>The goal of ongoing Game of Chains is to test Interchain Security. The idea of ICS is that one blockchain (The Cosmos Hub) can share security with another chain. 
+This feature was developed by Informal Systems. The format of incentivezed testnet basically means that validators come and help run this network completing
+certain milestones to surface attack vectors, bugs and other issues. There are rewards for this because it’s a lot of work. 
+Also, rewards make this process a lot of fun by providing an environment where participants both compete and still help each other. 
+All of this ultimately helps a lot to polish that really complex piece of technology which is ICS.
+<a href="https://postimg.cc/wRN7MmcD"><img src="https://i.postimg.cc/T17mkjKN/streamgoc.png" alt="streamgoc.png" /></a></p>
+<p><em><strong>Preparation for the testnet</strong></em></p>
+<p>Of course, it was necessary to prepare thoroughly for the testnet launch. Jehan shared how preliminary testing within the repository was going and about the automated
+tests that ran on every pull request. One of the types of tests is setting up a virtual network with several different chains: provider chain, which provides the 
+security, and consumer chains which draw security from provider chain. Another type of test is a model based test which uses a reference implementation to generate 
+many different scenarios in the form of actions that different actors in the network take. But no matter how sophisticated those tests get, testnets are more thorough
+method of testing, because people are unpredictable and they do all kinds of weird crap instead of normal things.
+Udit added up that another form of preparation is social planning. What are the tasks? How people are going to hit all the criteria? What are the phases of the game?
+So significant work was done in that area of planning. Udit also touched on infrastrucure that has to be used by participating validators, since they have to run 
+both on proveder chain and consumer chains, they need to be relayers. For that, GoC has to have quite a few supporting tools. And last but not least, it all requires
+communicating. Sometimes things break during a testnet running, and people should know what’s going on and how the plan is being adapted in new conditions.</p>
+<p><em><strong>Mitigating risks</strong></em></p>
+<p><strong>Q: How do we make sure that binaries we are being given are not malicious software?</strong></p>
+<p>According to Jehan, this is one of the key things. At least for the first few consumer chains there will be a process of due diligence that Jehan’s team will go through to look at their code. There are a few ways in which consumer chains can harm either The Cosmos Hub or the validators:</p>
+<ol>
+<li>A Cosmos chain is just a binary that runs on the computer, so it could delete your hard drive or use your computer to send spam out or anything a computer program would do. Jehan and the team are not expecting to have that situation for the first few consumer chains. Everyone would know who they are and who’s building them. As things become more decentralized and there’s a higher volume consumer chains running, you’ve got to run it in its own virtual environment, but validators do that anyway when they are running a new chain. So that’s not a huge concern.</li>
+<li>Consumer chain could potentially steal the private key given by a validator or sign malicious messages. This potential harm is limited by the process when validators inform The Cosmos Hub saying they want to use this key for this consumer chain and they can do that before the consumer chain even goes live. If you’re a validator and you see a consumer chain proposal is going to pass, you can provision a new box to run it and you’ll go to GitHub, look at the code and try to get the full node running on that virtual server. At the same time you initialize a new private key and then send a message on The Cosmos Hub saying this is the key to be using for this particular consumer chain.</li>
+<li>The largest vector is that some malicious consumer chain could have hidden the code that would send a ton of downtime slashing packs at once slashing every validator on the Hub and jailing them. Then they could register a bunch of fake validators and that malicious validator set would come in and control all the IBC bridges and be able to steal a lot of money. How to mitigate that? (1) The last form of defence is a circuit breaker which only allows a small percent of the validation power to be jailed per hour and make obvious to everybody that the attack is happening. Then we maybe halt the Hub if it’s really bad and take down the consumer chain. (2) There is a pretty robust capability system within Cosmos SDK as to what modules have the ability to send packets claiming to different other modules. When consumer chains are submitted we can make sure that there’s no possibility of the consumer chain’s own code being able to send packets claiming to be ICS module. This can be automated in the future.</li>
+</ol>
+<p>As a conclusion for this part of the discussion, Jehan noted that there are some other risks too, but they are really not as much concern as those three, because they are more based on mistakes than a deliberate attack.</p>
+<p><strong>Q: What bugs have already been detected?</strong></p>
+<p>Jehan gave a detailed report on one of the detected bugs during testing <em>(writer’s comment: <a href="https://en.wikipedia.org/wiki/Iterator">An iterator in computer programming</a>)</em>:</p>
+<p>“There’s something called iterators, which are kind of functions in the code, which go over a collection of items and you basically have to return from the function, you have to return <em>true</em> or <em>false</em> depending on whether you want to keep going to the next item and look at the next item in the list or whether you want to stop looking at the list. And so we had a situation in our code where we had some iterators you had to return <em>true</em> to keep looking at the rest of the list, so it was either return <em>true</em> to continue or return <em>true</em> to stop. And so some of the iterators are written that you would return <em>true</em> to stop, and some of the iterators were written that you would return <em>true</em> to continue. And so what actually with the bug happened was basically that there was an iterator over the consumer chains running on the provider chain, so when it’s doing operations involving the consumer chains iterate over the consumer chains, and it was that function was returning the wrong thing, like was returning <em>true</em> when it should have returned <em>false</em> to continue. And what happened is that that iterator would stop after looking at the first consumer chain. Basically, the provider chain was only ever really interacting with the first consumer chain, the second one was being left out. So that was basically the bug, and so we fixed that, and we also went in and we refactored everything so we’re consistent about the stuff, and we got the upgrade.”</p>
+<p>There were also some issues in relaying. These have been resolved now.</p>
+<p><em><strong>Phases of GoC</strong></em></p>
+<p>Udit gave a quick review on the Game of Chains phased approach.<br>
+There are three phases:<br>
+I. Testing dummy chains (Apollo and Sputnik), very basic, the most simple chains, to make sure that we can run the provider chain.<br>
+II. Testing actual chains. Expecting to see some of the consumer chains that are going to be launching next year (e.g. <a href="https://www.citizencosmos.space/neutron">Neutron</a>).<br>
+III. Asking anybody in the public or validators to submit consumer chains of their own.</p>
+<p><em><strong>In conclusion,</strong></em> a quick Q&amp;A session was held, during which some advantages of Cosmos SDK were pointed out.</p>
+<hr />
+<p>If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us <a href="https://www.citizencosmos.space/staking">here</a>: </p>
+<ul>
+<li><a href="https://wallet.keplr.app/chains/evmos?modal=validator&amp;chain=evmos_9001-2&amp;validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj">EVMOS</a> </li>
+<li><a href="https://wallet.keplr.app/chains/cosmos-hub?modal=validator&amp;chain=cosmoshub-4&amp;validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u">ATOM</a> </li>
+<li><a href="https://wallet.keplr.app/chains/bostrom?modal=validator&amp;chain=bostrom&amp;validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r">BOOT</a></li>
+</ul>
+<p>Join our <a href="https://discord.gg/kJaG3EucCX">community</a>, to build a future where communication is decentralized. May the code be with you! </p>
+
+        </div>
+
+        
+        <div class="pagination">
+            <div class="pagination__title">
+                <span class="pagination__title-h">Thanks for reading! Read other posts?</span>
+                <hr />
+            </div>
+            <div class="pagination__buttons">
+                    <span class="button previous">
+                        <a href="https://citizen-cosmos.github.io/manuscripts/striderecap/">
+                            <span class="button__icon">←</span>&nbsp;
+                            <span class="button__text">Stride Lab</span>
+                        </a>
+                    </span>
+                
+                
+                    <span class="button next">
+                        <a href="https://citizen-cosmos.github.io/manuscripts/cyber-bostrom-1-description/">
+                            <span class="button__text">Bostrom-Cyber: a complete guide. Part 1 - Description</span>&nbsp;
+                            <span class="button__icon">→</span>
+                        </a>
+                    </span>
+                </div>
+        </div>
+    
+    </div>
+
+    </div>
+
+    
+    <footer class="footer">
+        <div class="footer__inner">
+                <div class="copyright">
+                        <span>© 
+    2023
+ Powered by <a href="https://www.citizencosmos.space/">Citizen Cosmos</a></span>
+                    </div>
+            </div>
+    </footer>
+    
+
+</div>
+</body>
+
+</html>

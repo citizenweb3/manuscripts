@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Citizen Cosmos blog</title>
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta name="robots" content="noodp"/>
+
+    <link rel="stylesheet" href="https://citizen-cosmos.github.io/manuscripts/style.css">
+    <link rel="stylesheet" href="https://citizen-cosmos.github.io/manuscripts/color/blue.css">
+
+    <link rel="stylesheet" href="https://citizen-cosmos.github.io/manuscripts/font-hack-subset.css">
+
+    </head>
+
+<body class="">
+<div class="container">
+    
+    <header class="header">
+        <div class="header__inner">
+            <div class="header__logo">
+                    
+                <a href="https://citizen-cosmos.github.io/manuscripts" style="text-decoration: none;">
+                    <div class="logo">
+                      
+                            Citizen Cosmos
+                        
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        
+        
+                <nav class="menu">
+            <ul class="menu__inner">
+                <li class="active"><a href="https://citizen-cosmos.github.io/manuscripts">blog</a></li>
+            
+                <li><a href="https://citizen-cosmos.github.io/manuscripts/tags">tags</a></li>
+            
+                <li><a href="https://citizen-cosmos.github.io/manuscripts/archive">archive</a></li>
+            
+                <li><a href="https://citizen-cosmos.github.io/manuscripts/about">about us</a></li>
+            
+                <li><a href="https://citizen-cosmos.github.io/manuscripts/community">our community</a></li>
+            
+                <li><a href="https://github.com/citizen-cosmos" target="_blank" rel="noopener noreferrer">github</a></li>
+            </ul>
+        </nav>
+    
+    
+        
+    </header>
+    
+
+    <div class="content">
+        
+    <div class="post">
+        
+    <h1 class="post-title"><a href="https://citizen-cosmos.github.io/manuscripts/neutronstream/">Neutron stream</a></h1>
+    <div class="post-meta-inline">
+        
+    <span class="post-date">
+            2022-12-01
+        </span>
+
+    </div>
+
+    
+        <span class="post-tags-inline">
+                :: tags:&nbsp;
+                <a class="post-tag" href="https://citizen-cosmos.github.io/manuscripts/tags/ics/">#ics</a>&nbsp;
+                <a class="post-tag" href="https://citizen-cosmos.github.io/manuscripts/tags/neutron/">#neutron</a>&nbsp;
+                <a class="post-tag" href="https://citizen-cosmos.github.io/manuscripts/tags/smart-contract/">#smart contract</a>&nbsp;
+                <a class="post-tag" href="https://citizen-cosmos.github.io/manuscripts/tags/cosmos/">#cosmos</a>&nbsp;
+                <a class="post-tag" href="https://citizen-cosmos.github.io/manuscripts/tags/ibc/">#ibc</a></span>
+    
+
+        
+        <div class="post-content">
+            <p><strong><a href="https://www.youtube.com/watch?v=umvecK_toi4">Cosmos: A citizen odyssey, ep. XIV, special mission - Neutron</a></strong></p>
+<p>During our latest episode of the Citizen Odyssey, we spoke with <a href="https://www.citizencosmos.space/neutron">Neutron's</a> team. Our guests were <a href="https://twitter.com/soi2studio">Soi</a> - Neutorn's community manager, <a href="https://twitter.com/0xSpaydh">Spaydh</a> - the project manager and <a href="https://twitter.com/pr0n00gler">Mike</a> - Go/Rust Dev. We discussed Interchain Security, interoperability, CosmWasm, dApps and much more. </p>
+<p>This is a short recap of the conversations and might not do justice to everything that was said and mentioned by Neutron's team. The purpose, as stated above, was to ELI5 what is Neutron, who for and why. We strongly suggest watching the whole conversation in order to get a better picture of what is Neutron. However, we did highlight the main points in this recap.</p>
+<p><strong>Q: How is Neutron different? What is Neutrons value proposition?</strong><br></p>
+<p>There are two: security and interoperability. There are others, but the focus is on these two. Interchain security allows Neutron to have the same security at launch as Cosmos Hub, one of the top 10 most secure proof-of-stake blockchains. The second thing is interoperability. On most smart contract platforms (as of today), the app you release on that blockchain only works on that blockchain. Neutron will allow you to create applications that work on Neutron, but they will also work on all the blockchains that are connected to Neutron by <a href="https://ibcprotocol.org/">IBC</a>. Every chain has different dApps, and you need to adapt to this. </p>
+<blockquote>
+<p>&quot;Perhaps, we can make a version of Cosmos where you have one front end for every application and you don't need to care about which blockchain you're on. You can just use the services you want to use from wherever you are in Cosmos. And then get the assets you want to get on whatever chain you want to get them. Essentially, we're trying to remove all the complexity of having multiple blockchains in the same ecosystem and just make it way easier to navigate.&quot; say the guys fron Neutron.</p>
+</blockquote>
+<p><strong>Q: Who will be using Neutron?</strong></p>
+<p>According to the team, Neutron is for ordinary users, developers and people building businesses on top of Neutron. One of the goals is to create a home in The Interchain. A chain that you can use to access everything else in The Interchain. For example, you want to do a swap on <a href="https://www.citizencosmos.space/osmosis">Osmosis</a>? You can do it from Neutron, because there's an Outpost —  a proxy / a contract. Quote from the team: </p>
+<blockquote>
+<p>&quot;You don't need to bridge back and forth the smart contracts. You just go to the interface, you click the button, you sign one transaction. Everything happens in the background, and you get what you want. Don't have to care about the fact that these are multiple blockchains connected by IBC. For users it's going to be a home in The Interchain and for developers it's going to be a command center.&quot;</p>
+</blockquote>
+<p><strong>Q: Were there any things with the Neutron testing that came as a surprise in a bad way or in a good way?</strong><br></p>
+<blockquote>
+<p>Mike: &quot;I'm pretty familiar with Cosmos ecosystem, the technical side of things, so there were no surprises.&quot;</p>
+</blockquote>
+<p><strong>Q: Maybe there were surprises for validators?</strong><br></p>
+<blockquote>
+<p>Spaydh: &quot;Interchain security changes Neutron and the others. We are secured by Atom, but we can't mint Atom. So when we launch we're not going to create a whole bunch of Atoms. Also this means that we can't do foundation delegations. Unfortunately. We appreciate tremendously the fact that a lot of validators have been very interested in committing and stuff but every time we get asked like “Hey, can we get a delegation in exchange for it?”, but unfortunately we don't have the Atom that it takes to make a delegation.&quot;</p>
+</blockquote>
+<p><strong>Q: Will there be a token on Neutron, its own token?</strong><br></p>
+<blockquote>
+<p>Spaydh: &quot;Yeah, most likely. The idea is how do we make an incentives game that allows people to create value to bring new stuff to experiment, to create new protocols, new applications to make cool community events, all that kind of stuff. And how do we ensure that people participate in this are rewarded when they contribute? People are punished when they try to destroy things or to do things that hurt the blockchain. For example, trying to spam transactions. The token kind of serves that purpose. It also provides a tool to make decisions together, governance.&quot;</p>
+</blockquote>
+<p><strong>Q: What is the future for Neutron?</strong><br></p>
+<blockquote>
+<p>Soi: &quot;Cosmos is frankly a little bit behind the times in terms of DeFi. There's a lot of stuff that you can do on Ethereum that you can't do on Cosmos yet. And we like to think that Neutron is going to open the door to the the future of Defi in Cosmos. In five years, what we're going to see on the platform? We're going to see lending protocols, money markets, taxes and really sort of open the door to the future of DeFi in Cosmos.&quot;</p>
+</blockquote>
+<hr />
+<p>If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us <a href="https://www.citizencosmos.space/staking">here</a>) </p>
+<ul>
+<li><a href="https://wallet.keplr.app/chains/evmos?modal=validator&amp;chain=evmos_9001-2&amp;validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj">EVMOS</a> </li>
+<li><a href="https://wallet.keplr.app/chains/cosmos-hub?modal=validator&amp;chain=cosmoshub-4&amp;validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u">ATOM</a> </li>
+<li><a href="https://wallet.keplr.app/chains/bostrom?modal=validator&amp;chain=bostrom&amp;validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r">BOOT</a></li>
+</ul>
+<p>Join our <a href="https://discord.gg/kJaG3EucCX">community</a>, to build a future where communication is decentralized. May the code be with you! </p>
+
+        </div>
+
+        
+        <div class="pagination">
+            <div class="pagination__title">
+                <span class="pagination__title-h">Thanks for reading! Read other posts?</span>
+                <hr />
+            </div>
+            <div class="pagination__buttons">
+                    <span class="button previous">
+                        <a href="https://citizen-cosmos.github.io/manuscripts/cyber-bostrom-1-description/">
+                            <span class="button__icon">←</span>&nbsp;
+                            <span class="button__text">Bostrom-Cyber: a complete guide. Part 1 - Description</span>
+                        </a>
+                    </span>
+                
+                
+                    <span class="button next">
+                        <a href="https://citizen-cosmos.github.io/manuscripts/cyber-bostrom-2-how-to-obtain-boot/">
+                            <span class="button__text">Bostrom-Cyber: a complete guide. Part 2 - How to obtain BOOT</span>&nbsp;
+                            <span class="button__icon">→</span>
+                        </a>
+                    </span>
+                </div>
+        </div>
+    
+    </div>
+
+    </div>
+
+    
+    <footer class="footer">
+        <div class="footer__inner">
+                <div class="copyright">
+                        <span>© 
+    2023
+ Powered by <a href="https://www.citizencosmos.space/">Citizen Cosmos</a></span>
+                    </div>
+            </div>
+    </footer>
+    
+
+</div>
+</body>
+
+</html>
