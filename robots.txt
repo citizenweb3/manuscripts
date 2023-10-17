@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Allow: /
-Sitemap: https://citizen-cosmos.github.io/manuscripts/sitemap.xml
