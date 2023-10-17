@@ -1,6 +1,6 @@
 # Be sure to change these!
-base_url = "https://citizen-cosmos.github.io/manuscripts"
-title = "Citizen Cosmos blog"
+base_url = "https://citizenweb3.github.io/manuscripts"
+title = "Citizen Web3 blog"
 
 # Sass compilation is required
 compile_sass = true
@@ -28,7 +28,7 @@ accent_color = "blue"
 background_color = "blue"
 
 # The logo text - defaults to "Terminimal theme"
-logo_text = "Citizen Cosmos"
+logo_text = "Citizen Web3"
 
 # The logo link - defaults to base_url.
 #logo_home_link = "/take/me/away!"
@@ -56,7 +56,7 @@ menu_items = [
     {name = "our community", url = "$BASE_URL/community"},
 
     # set newtab to true to make the link open in new tab
-    {name = "github", url = "https://github.com/citizen-cosmos", newtab = true},
+    {name = "github", url = "https://github.com/citizenweb3", newtab = true},
 ]
 
 # Whether to show links to earlier and later (aka. higher/lower) posts
