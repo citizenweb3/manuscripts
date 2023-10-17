@@ -21,7 +21,7 @@ the different designs of stablecoins, what their purpose is, and the dangers of 
 
 <!-- more -->
 
-***Q: What are stablecoins and what are they for?***
+***Q: What are stablecoins and what are they for???***
 
 According to ***Youseff***, stablecoin is a cryptocurrency that serves as a stable reserve asset, like the dollar, as well as a medium of exchange for daily transactions.
 It can also be a means to store value in the short term (because in the long term, stablcoins are often subject to inflation as well, though not as volatile as other
