@@ -1,0 +1,27 @@
+File should start from this: 
+
++++
+title = "EXAMPLE"
+date = 2022-01-01
+
+[taxonomies]
+tags = ["example", "example2", "example3"]
++++
+
+than paragraph for the short reading and than 
+
+<!-- more --> 
+
+at the bottom should be following: 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If you would like to support our mission in creating educational content and aligning the goals of different communities, please stake with us [here](https://www.citizencosmos.space/staking)) 
+
+- [EVMOS](https://wallet.keplr.app/chains/evmos?modal=validator&chain=evmos_9001-2&validator_address=evmosvaloper1mtwvpdd57gpkyejd566s24afr9zm5ryq8gwpvj) 
+- [ATOM](https://wallet.keplr.app/chains/cosmos-hub?modal=validator&chain=cosmoshub-4&validator_address=cosmosvaloper1e859xaue4k2jzqw20cv6l7p3tmc378pc3k8g2u) 
+- [BOOT](https://wallet.keplr.app/chains/bostrom?modal=validator&chain=bostrom&validator_address=bostromvaloper1f7nx65pmayfenpfwzwaamwas4ygmvalqj6dz5r)
+
+Join our [community](https://discord.gg/kJaG3EucCX), to build a future where communication is decentralized. May the code be with you! 
+
+INSTEAD OF - CURRENTPAGENAME - you should write name of the page that you created. ALso don't use caps. 
